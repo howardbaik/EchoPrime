@@ -45,8 +45,6 @@ ALL_SECTIONS=["Left Ventricle",
 
 
 # global variables for language-specific data
-all_phrases = None
-t_list = None
 phrases_per_section_list = None
 phrases_per_section_list_org = None
 regex_per_section = None
@@ -62,12 +60,14 @@ def initialize_language(lang='en'):
     Args:
         lang (str): language code
     """
-    global all_phrases, t_list, phrases_per_section_list, phrases_per_section_list_org, regex_per_section
+    all_phrases, t_list = None, None
+    global phrases_per_section_list, phrases_per_section_list_org, regex_per_section
     
     if lang == 'en':
         phrases_file = "assets/all_phr.json"
     elif lang == 'it':
         phrases_file = "assets/all_phr_it.json"
+    # add your translated file here
     #elif lang == 'your_language_code':
     #    phrases_file = "assets/all_phr_{your_language_code}.json"
     else:
@@ -77,9 +77,10 @@ def initialize_language(lang='en'):
     with open(phrases_file, encoding="utf-8") as f:
         all_phrases = json.load(f)
     
-    # now we can create the other global variables
     t_list = {k: [all_phrases[k][j] for j in all_phrases[k]] 
               for k in all_phrases}
+    
+    # now we can create the other global variables
     phrases_per_section_list = {k: functools.reduce(lambda a,b: a+b, v) for (k,v) in t_list.items()}
     phrases_per_section_list_org = {k: functools.reduce(lambda a,b: a+b, v) for (k,v) in t_list.items()}
 
