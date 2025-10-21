@@ -1,1360 +1,1359 @@
 {
-    "Left Ventricle": {
-        "Left Ventricle:": [
-            "Left ventricle not well visualized."
-        ],
-        "Linear Cavity Size- LVIDd 2D (Evidence based)": [
-            "Left ventricle is grossly normal in size and systolic function.",
-            "Left ventricle is normal in size and systolic function.",
-            "The left ventricle is small by linear cavity dimension.",
-            "The left ventricle is small",
-            "The left ventricle is small.",
-            "Normal left ventricular size by linear cavity dimension.",
-            "Normal left ventricular size by volume",
-            "Normal left vntricular size by volume.",
-            "Normal left ventricular size",
-            "The left ventricle is normal in size and systolic function",
-            "Mildly dilated left ventricle by volume.",
-            "Mildly dilated left ventricle by linear cavity dimension.",
-            "Mildly dilated left ventricle",
-            "Moderately dilated left ventricle by linear cavity dimension.",
-            "Moderately dilated left ventricle by volume.",
-            "Moderately dilated left ventricle",
-            "Severely dilated left ventricle by linear cavity dimension.",
-            "Severely dilated left ventricle.",
-            "Mildly dilated left ventricle by volume."
-        ],
-        "Volumetric Cavity Size EDV (Evidence based)": [
-            "The left ventricle is small.",
-            "Normal left ventricular size by volume.",
-            "Normal left ventricular size",
-            "Mildly dilated left ventricle by volume.",
-            "Moderately dilated left ventricle by volume.",
-            "Severely dilated left ventricle by volume."
-        ],
-        "Wall thickness- IVSd 2D or LVPWd 2D (Evidence based)": [
-            "Normal left ventricular wall thickness.",
-            "Mild left ventricular hypertrophy.",
-            "Mild to Moderate left ventricular hypertrophy.",
-            "Moderate left ventricular hypertrophy.",
-            "Moderate to Severe left ventricular hypertrophy.",
-            "Severe left ventricular hypertrophy.",
-            "Findings consistent with asymmetric septal hypertrophy.",
-            "Findings consistent with mild septal hypertrophy.",
-            "Mild septal hypertrophy; the remaining wall thickness is normal.",
-            "Mild to moderate septal hypertrophy; the remaining wall thickness is normal.",
-            "Moderate septal hypertrophy; the remaining wall thickness is normal.",
-            "Left ventricular wall thickness is within upper limits of normal."
-        ],
-        "Ventricular mass- Linear method": [
-            "Findings consistent with concentric remodelling",
-            "Mild left ventricular hypertrophy",
-            "Mild to Moderate left ventricular hypertrophy",
-            "Moderate left ventricular hypertrophy",
-            "Moderate to Severe left ventricular hypertrophy.",
-            "Severe left ventricular hypertrophy."
-        ],
-        "Pattern of Hypertrophy": [
-            "Findings consistent with concentric hypertrophy.",
-            "Findings consistent with eccentric hypertrophy.",
-            "Findings consistent with a sigmoid septum of the elderly",
-            "Findings consistent with hypertrophic cardiomyopathy.",
-            "Findings consistent with asymmetric s.eptal hypertrophy.",
-            "There is hypertrophy confined to the left ventricular apex, consistent with apical hypertrophic cardiomyopathy.",
-            "There are numerous prominent trabeculations and deep intertrabecular recesses, consistant with non-compaction cardiomyopathy.",
-            "Left ventricular cavity obliteration.",
-            "Sigmoid-shaped septum with mild focal hypertrophy of the basal septum, measuring up to <numerical>cm; the remaining wall thickness is normal.",
-           "Moderate focal left ventricular hypertrophy of the anteroseptum."
-
-        ],
-        "=Peak": [
-            "Peak intracavitary gradient is: <numerical> mmHG."
-        ],
-        "LVOT obstruction/SAM": [
-            "No systolic anterior motion of the mitral leaflets / left ventricular tract obstruction.",
-            "There is mild systolic anterior motion of the mitral valve.",
-            "Mild systolic anterior motion of the mitral leaflets with no significant left ventricular tract obstruction.",
-            "Mild to moderate systolic anterior motion of the mitral leaflets with no significant left ventricular tract obstruction.",
-            "There is moderate systolic anterior motion of the mitral valve.",
-            "There is severe systolic anterior motion of the mitral valve.",
-            "There is no evidence of left ventricular outflow obstruction at rest.",
-            "There is evidence of discrete membranous left ventricular outflow tract obstruction.",
-            "There is evidence of dynamic left ventricular outflow tract obstruction at rest."
-        ],
-        "=Resting": [
-            "Resting outflow tract gradient is: <numerical> mmHG."
-        ],
-        "=LVOT": [
-            "LVOT greadient after PVC is: <numerical> mmHG.",
-            "LVOT gradient after PVC is: <numerical> mmHG."
-        ],
-        "LV Function- EF 2D (Evidence based)": [
-            "Overall left ventricular systolic function is normal",
-            "There is hyperdynamic left ventricular systolic function.",
-            "Normal left ventricular systolic function.",
-            "Mildly depressed left ventricular systolic function.",
-            "Moderately depressed left ventricular systolic function.",
-            "Severely depressed left ventricular systolic function.",
-            "VERY SEVERE left ventricular systolic dysfunction."
-        ],
-        "=LV": [
-            "LV Ejection Fraction is <numerical> %.",
-            "LV Ejection Fraction is <numerical>",
-            "Left ventricular systolic function is low-normal with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is normal with an estimated ejection fraction of <numerical> %",
-            "Left ventricular systolic function is normal with an estimated ejection fraction of <numerical>%",
-            "There is normal regional wall motion Left ventricular systolic function is normal with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is normal, with an estimated ejection fraction of <numerical> %.",
-            "Left ventricular systolic function is normal, with an estimated ejection fraction of <numerical> to <numerical> %.",
-            "Left ventricular systolic function is normal with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is hyperdynamic with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is mildly impaired with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is moderately impaired with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is severely impaired with an estimated ejection fraction between <numerical> and <numerical>%.",
-            "Left ventricular systolic function is low-normal with an estimated ejection fraction of <numerical>%.",
-            "Left ventricular systolic function is mildly impaired with an estimated ejection fraction of <numerical>",
-            "Left ventricular systolic function is moderately impaired with an estimated ejection fraction of <numerical>.",
-            "Left ventricular systolic function is severely impaired with an estimated ejection fraction of <numerical>",
-            "Left ventricular systolic function was normal, with an ejection fraction of <numerical> %"
-        ],
-        "LV Ejection Fraction Method": [
-            "Ejection Fraction calculated by Simpson`s Biplane method is <numerical> %.",
-            "The left ventricular ejection fraction was calculated using the biplane Simpson`s rule method.",
-            "The left ventricular ejection fraction was calculated using the single plane Simpson`s rule method.",
-            "Teichholz method was used to calculate LVEF.",
-            "The left ventricular ejection fraction was estimated to be <numerical>-<numerical>%",
-            "The left ventricular ejection fraction was estimated to be <numerical> %",
-            "The left ventricular ejection fraction was visually estimated to be <numerical> %",
-            "The left ventricular ejection fraction was estimated to be <numerical>",
-            "The left ventricular ejection fraction was visually estimated to be <numerical>",
-            "The left ventricular ejection fraction could not be precisely assessed due to poor endocardial border definition.",
-            "Ejection Fraction calculated by Simpson`s Biplane method is <numerical> %.",
-            "Visually estimated LVEF is <numerical>-<numerical>%.",
-            "Visually estimated left ventricular ejection fraction is <numerical> %."
-        ],
-        "Septal Motion": [
-            "Reversed interventricular septal motion is seen and is a common finding in the post open heart surgery patient.",
-            "Paradoxical septal motion consistent with intraventricular conduction delay or bundle branch block.",
-            "Paradoxical septal motion consistent with RV pacemaker.",
-            "There is flattening of the interventricular septum in diastole, consistent with right ventricular volume overload.",
-            "There is flattening of the interventricular septum in both systole and diastole, consistent with right ventricular pressure and volume overload.",
-            "There is a septal bounce in late diastole consistent with constrictive physiology."
-        ],
-        "Thrombus": [
-            "No evidence of thrombus",
-            "No left ventricular thrombus visualized.",
-            "Cannot exclude left ventricular apical mural thrombus. Recommend repeat study with left ventricular contrast agent.",
-            "There is the possibility of a left ventricular apical mural thrombus.",
-            "Findings are consistent with a probable left ventricular apical mural thrombus.",
-            "There is evidence of a left ventricular apical mural thrombus.",
-            "Spontaneous contrast consistent with stasis.",
-            "There is evidence of a mobile protruding left ventricular apical mural thrombus <numerical> cm x <numerical> cm with significant embolic potential."
-        ],
-        "Tumor": [
-            "An echogenic mass consistent with tumor is visualized.",
-            "The mass is sessile",
-            "The mass is mobile",
-            "The size of the mass is <numerical> mm by <numerical> mm"
-        ],
-        "Diastolic Function": [
-            "Unable to assess diastolic function due to irregular heart rhythm.",
-            "Diastolic function is indeterminate due to discordant parameters.",
-            "There is normal diastolic function",
-            "Left ventricular diastolic parameters were normal.",
-            "Mild diastolic dysfunction. There is reversal of the E to A ratio and/or prolonged deceleration time consistent with impaired left ventricular relaxation.",
-            "Moderate diastolic dysfunction. Features were consistent with a pseudonormal left ventricular filling pattern, with concomitant abnormal relaxation and increased filling pressure.",
-            "Severe diastolic dysfunction. Tissue Doppler/Mitral Doppler indices are consistent with restrictive physiology with markedly elevated left atrial pressures at rest.",
-            "Due to tachycardia, there is fusion of early and atrial contributions to left ventricular filling. Left ventricular diastolic function is indeterminate.",
-            "Left ventricular diastolic function could not be assessed due to the presence of atrial fibrillation during the study.",
-            "Left ventricular diastolic function is indeterminate in this study due to the presence of mitral stenosis.",
-            "Left ventricular diastolic function is indeterminate in this study due to the presence of mitral valve repair.",
-            "Left ventricular diastolic function is indeterminate in this study due to the presence of mitral valve repair or replacement.",
-            "Left ventricular diastolic function is indeterminate in this study due to the presence of severe mitral annular calcification.",
-            "Left Ventricular diastolic function is indeterminate as patient has had heart transplant.",
-            "Left ventricular diastolic function is indeterminate in this study",
-            "Left Ventricular diastolic function is indeterminate as patient has eccentric aortic regurgitation.",
-            "Left ventricular diastolic function could not be assessed due to the heart rhythm during the study.",
-            "Left ventricular diastolic function is indeterminate in this study due to the presence of pacemaker.",
-            "Difficult to assess diastolic function due to prior heart transplant.",
-            "Left ventricular diastolic function is indeterminate.",
-            "There is grade I diastolic dysfunction.",
-            "There is grade II diastolic dysfunction."
-        ],
-        "Filling Pressure": [
-            "Doppler parameters are consistent with low filling pressures and decreased intravascular volume.",
-            "Doppler parameters and/or lateral mitral annular (E`) velocities are consistent with normal left ventricular filling pressures.",
-            "Doppler parameters and/or lateral mitral annular (E`) velocities are consistent with elevated left ventricular filling pressures.",
-            "Doppler parameters and/or lateral mitral annular (E`) velocities are consistent with significantly elevated left ventricular filling pressures.",
-            "Doppler parameters compatible with young transplanted heart.",
-            "There is fusion of early and atrial contributions to left ventricular filling."
-        ],
-        "LVAD": [
-            "A left ventricular assist device inflow cannula is seen in the left ventricular apex oriented towards the mitral valve and the interventricular septum is neutral, consistent with a normal LVAD function. Color and pulse Doppler interrogation of the LVAD cannula demonstrate normal laminar flow.",
-            "A left ventricular assist device inflow cannula is seen in the left ventricular directed towards the ventricular septum, suggesting abnormal positioning.",
-            "A left ventricular assist device inflow cannula is seen in the left ventricular apex and the LV appears distended. Color and pulse Doppler interrogation of the LVAD cannula reveals turbulent flow and/or there is regurgitation flow, consistent with abnormal LVAD function.",
-            "A left ventricular assist device inflow cannula is seen in the left ventricular apex and the interventricular septum is shifted leftward, suggesting hypovolemia, excessive decompression or RV dysfunction.",
-            "A left ventricular assist device inflow cannula is seen in the left ventricular apex and the interventricular septum is shifted rightward, suggesting LVAD obstruction or malfunction.",
-            "A left ventricular assist device inflow cannula is seen in the left ventricular apex and the LV appears decompressed.",
-            "Flows normal; Color and pulse Doppler interrogation of the LVAD cannula demonstrate normal flow.",
-            "A left ventricular assist device inflow cannula is seen in the left ventricular apex and the LV appears decompressed, the aortic valve does not open or only opens intermittently consistent with normal LVAD function."
-
-        ],
-        "VSD Size": [
-            "A small ventricular septal defect is seen.",
-            "A medium sized ventricular septal defect is seen.",
-            "A large ventricular septal defect is seen."
-        ],
-        "VSD Type": [
-            "The appearance is consistent with an inlet ventricular septal defect.",
-            "The appearance is consistent with a supracristal ventricular septal defect.",
-            "The appearance is consistent with a perimembranous ventricular septal defect.",
-            "The appearance is consistent with a muscular ventricular septal defect.",
-            "The appearance is consistent with a complete AV canal defect.",
-            "The appearance is consistent with a post-infarct type ventricular septal defect."
-        ],
-        "VSD Shunting": [
-            "There is Doppler evidence of left-to-right shunting across the VSD.",
-            "There is Doppler evidence of right-to-left shunting across the VSD.",
-            "There is Doppler evidence of bidirectional shunting across the VSD.",
-            "A VSD patch is visualized.",
-            "An occluder device is seen across the VSD.",
-            "A false tendon is seen in the left ventricle, a normal finding.",
-            "The global longitudinal strain is found to be <numerical> %.",
-            "The global longitudinal strain is found to be -<numerical> %."
-        ],
-        "Wall Motion":[
-            "There is normal regional wall motion",
-            "There is aneurysm of the <string>.",
-            "There is abnormal regional wall motion.",
-            "There is hypokinesis of the <string>.",
-            "The entire basal wall demonstrate normal motion.",
-            "The remaining left ventricular segments demonstrate normal wall motion.",
-            "The entire mid wall demonstrate normal motion.",
-            "The entire anterolateral wall demonstrates normal motion.",
-            "There is dyskinesis of the <string>.",
-            "The entire lateral wall demonstrates normal motion.",
-            "The basal anterior wall demonstrates normal motion.",
-            "The mid anterior wall demonstrates normal motion.",
-            "No gross regional wall motion abnormality.",
-            "There is abnormal regional wall motion",
-            "The mid lateral wall demonstrates normal motion.",
-            "The basal anterolateral to basal inferolateral wall demonstrates normal motion.",
-            "There are no regional wall motion abnormalities",
-            "The apical cap demonstrates normal motion.",
-            "The remaining left ventricular segments demonstrate hypokinesis.",
-            "There is normal regional wall motion.",
-            "The entire inferoseptal wall demonstrates normal motion.",
-            "The mid anterolateral wall demonstrates normal motion.",
-            "No regional wall motion abnormalities",
-            "The mid anterior to mid anterolateral wall demonstrates normal motion.",
-            "Resting Segmental Wall Motion Findings.",
-            "There is global hypokinesis with regional variation.",
-            "Severe global hypokinesis",
-            "Global hypokinesis present",
-            "Severe global hypokinesis present.",
-            "The basal anterior to lateral wall demonstrates normal motion.",
-            "The basal anterior to basal anterolateral wall demonstrates normal motion.",
-            "The entire anterior wall demonstrates normal motion.",
-            "The basal anteroseptal to inferolateral wall demonstrates normal motion.",
-            "The basal to mid anteroseptal wall demonstrates normal motion.",
-            "There are no gross regional wall motion abnormalities.",
-            "The basal inferolateral wall demonstrates normal motion.",
-            "The apical cap is not visualized.",
-            "The mid anterior to lateral wall demonstrates normal motion.",
-            "The basal lateral wall demonstrates normal motion.",
-            "The basal anteroseptal to basal inferolateral wall demonstrates normal motion.",
-            "The basal anterolateral wall demonstrates normal motion.",
-            "There is akinesis of the <string>.",
-            "The basal anterior to basal anterolateral to basal inferolateral wall demonstrates normal motion.",
-            "The basal anterior wall is not visualized.",
-            "Apical aneurysm without obvious thrombus."
-        ],
-        "Quality":[
-            "Difficult to assess due to prior heart transplant.",
-            "No evidence of vegetation."
-        ]
-    },
-    "Resting Segmental Wall Motion Analysis": {
-        "Resting Segmental Wall Motion Analysis:": [
-            "There is global left ventricular hypokinesis.",
-            "There is normal regional wall motion.",
-            "There is normal regional wall motion",
-            "The remaining left ventricular segments demonstrate normal wall motion.",
-            "The remaining left ventricular segments demonstrate akinesis.",
-            "The remaining left ventricular segments not visible.",
-            "There is abnormal regional wall motion"
-        ],
-        "Score":[
-            "Total wall motion score is <numerical>."
-
-        ],
-        "Wall Motion":[
-            "There is normal regional wall motion",
-            "There is aneurysm of the <string>.",
-            "There is abnormal regional wall motion.",
-            "There is hypokinesis of the <string>.",
-            "The entire basal wall demonstrate normal motion.",
-            "The remaining left ventricular segments demonstrate normal wall motion.",
-            "The entire mid wall demonstrate normal motion.",
-            "The entire anterolateral wall demonstrates normal motion.",
-            "There is dyskinesis of the <string>.",
-            "The entire lateral wall demonstrates normal motion.",
-            "The basal anterior wall demonstrates normal motion.",
-            "The mid anterior wall demonstrates normal motion.",
-            "No gross regional wall motion abnormality.",
-            "There is abnormal regional wall motion",
-            "The mid lateral wall demonstrates normal motion.",
-            "The basal anterolateral to basal inferolateral wall demonstrates normal motion.",
-            "There are no regional wall motion abnormalities",
-            "The apical cap demonstrates normal motion.",
-            "The remaining left ventricular segments demonstrate hypokinesis.",
-            "There is normal regional wall motion.",
-            "The entire inferoseptal wall demonstrates normal motion.",
-            "The mid anterolateral wall demonstrates normal motion.",
-            "No regional wall motion abnormalities",
-            "The mid anterior to mid anterolateral wall demonstrates normal motion.",
-            "Resting Segmental Wall Motion Findings.",
-            "There is global hypokinesis with regional variation.",
-            "The basal anterior to lateral wall demonstrates normal motion.",
-            "The basal anterior to basal anterolateral wall demonstrates normal motion.",
-            "The entire anterior wall demonstrates normal motion.",
-            "The basal anteroseptal to inferolateral wall demonstrates normal motion.",
-            "The basal to mid anteroseptal wall demonstrates normal motion.",
-            "There are no gross regional wall motion abnormalities.",
-            "The basal inferolateral wall demonstrates normal motion.",
-            "The apical cap is not visualized.",
-            "The mid anterior to lateral wall demonstrates normal motion.",
-            "The basal lateral wall demonstrates normal motion.",
-            "The basal anteroseptal to basal inferolateral wall demonstrates normal motion.",
-            "The basal anterolateral wall demonstrates normal motion.",
-            "There is akinesis of the <string>.",
-            "The basal anterior to basal anterolateral to basal inferolateral wall demonstrates normal motion.",
-            "The basal anterior wall is not visualized."
-        ],
-        "Visualized":[
-            "The basal to apical anterior wall is not visualized.",
-            "The basal to apical inferior wall is not visualized.",
-            "Regional WMA could not be assessed due to poor endocardial border definition.",
-            "The entire anterior wall is not visualized",
-            "The entire anterolateral wall is not visualized."
-        ]
-    },
-    "Right Ventricle": {
-        "Right Ventricle:": [
-            "Normal right ventricular size and systolic function.",
-            "Right ventricle size not well visualized."
-        ],
-        "=TAPSE":[
-            "TAPSE is <numerical> cm",
-            "TAPSE is <numerical>cm",
-            "TAPSE was <numerical> cm",
-            "TAPSE was <numerical>cm"
-        ],
-        "Cavity Size- RVDd 2D (Evidence based)": [
-            "Normal right ventricular size.",
-            "Mildly dilated right ventricle.",
-            "Moderately dilated right ventricle.",
-            "Severely dilated right ventricle.",
-            "Reduced right ventricular size."
-        ],
-        "RV Systolic Function": [
-            "Normal right ventricular systolic function.",
-            "Hyperdynamic right ventricular systolic function.",
-            "Mildly depressed right ventricular systolic function.",
-            "Moderately depressed right ventricular systolic function.",
-            "Severely depressed right ventricular systolic function.",
-            "There is severely depressed RV systolic function in a pattern that spares the RV apex (McConnell`s sign), a finding that suggests acute right ventricular pressure overload."
-        ],
-        "Wall Motion":[
-            "There is normal regional wall motion",
-            "There is aneurysm of the <string>.",
-            "There is abnormal regional wall motion.",
-            "There is hypokinesis of the <string>.",
-            "The entire basal wall demonstrate normal motion.",
-            "The remaining left ventricular segments demonstrate normal wall motion.",
-            "The entire mid wall demonstrate normal motion.",
-            "The entire anterolateral wall demonstrates normal motion.",
-            "There is dyskinesis of the <string>.",
-            "The entire lateral wall demonstrates normal motion.",
-            "The basal anterior wall demonstrates normal motion.",
-            "The mid anterior wall demonstrates normal motion.",
-            "No gross regional wall motion abnormality.",
-            "There is abnormal regional wall motion",
-            "The mid lateral wall demonstrates normal motion.",
-            "The basal anterolateral to basal inferolateral wall demonstrates normal motion.",
-            "There are no regional wall motion abnormalities",
-            "The apical cap demonstrates normal motion.",
-            "The remaining left ventricular segments demonstrate hypokinesis.",
-            "There is normal regional wall motion.",
-            "The entire inferoseptal wall demonstrates normal motion.",
-            "The mid anterolateral wall demonstrates normal motion.",
-            "No regional wall motion abnormalities",
-            "The mid anterior to mid anterolateral wall demonstrates normal motion.",
-            "Resting Segmental Wall Motion Findings.",
-            "There is global hypokinesis with regional variation.",
-            "The basal anterior to lateral wall demonstrates normal motion.",
-            "The basal anterior to basal anterolateral wall demonstrates normal motion.",
-            "The entire anterior wall demonstrates normal motion.",
-            "The basal anteroseptal to inferolateral wall demonstrates normal motion.",
-            "The basal to mid anteroseptal wall demonstrates normal motion.",
-            "There are no gross regional wall motion abnormalities.",
-            "The basal inferolateral wall demonstrates normal motion.",
-            "The apical cap is not visualized.",
-            "The mid anterior to lateral wall demonstrates normal motion.",
-            "The basal lateral wall demonstrates normal motion.",
-            "The basal anteroseptal to basal inferolateral wall demonstrates normal motion.",
-            "The basal anterolateral wall demonstrates normal motion.",
-            "There is akinesis of the <string>.",
-            "The basal anterior to basal anterolateral to basal inferolateral wall demonstrates normal motion.",
-            "The basal anterior wall is not visualized."
-        ],
-        "Hypertrophy": [
-            "Borderline right ventricular hypertrophy.",
-            "Borderline depressed right ventricular systolic function.",
-            "Mild right ventricular hypertrophy.",
-            "Mild to Moderate right ventricular hypertrophy.",
-            "Moderate right ventricular hypertrophy.",
-            "Moderate to Severe right ventricular hypertrophy.",
-            "Severe right ventricular hypertrophy.",
-            "Prominent moderator band - normal variant.",
-            "Echo density in right ventricle suggestive of catheter, pacer lead, or ICD lead.",
-            "Echo density in right ventricle suggestive of ICD lead.",
-            "Right ventricle not well visualized."
-        ],
-        "Right ventricular assist device": [
-            "is present.",
-            "appears to function normally.",
-            "findings suggest malfunctioning."
-        ],
-        "Masses": [
-            "An echogenic mass consistent with tumor is visualized.",
-            "An echogenic mass consistent with a thrombus is visualized.",
-            "The mass is sessile",
-            "The mass is mobile",
-            "The size of the mass is <numerical> mm by <numerical> mm"
-        ],
-        "doppler velocity":[
-            "Tricuspid tissue doppler velocity was <numerical> cm/sec (normal > 10 cm/sec)."
-        ],
-        "other":[
-            "Fractional area change was > 35%.",
-            "Right ventricular wall thickness was normal."
-        ]
-    },
-    "Left Atrium": {
-        "Left Atrium:": [
-            "Normal left atrial size and morphology.",
-            "Appropriate left atrial appearance for a transplant recipient."
-        ],
-        "LA Area (Evidence Based)": [
-            "The left atrium is normal in size.",
-            "Mildly dilated left atrium.",
-            "Moderately dilated left atrium.",
-            "Severely dilated left atrium."
-        ],
-        "Thrombus": [
-            "No left atrial thrombus.",
-            "Unable to rule out left atrial thrombus.",
-            "Left atrial thrombus seen.",
-            "No LAA thrombus visualized.",
-            "Other walls contract well."
-        ],
-        "Tumor": [
-            "An echogenic mass consistent with tumor is visualized.",
-            "The mass is sessile",
-            "The mass is mobile",
-            "The size of the mass is <numerical> mm by <numerical> mm"
-        ],
-        "Left atrial appendage": [
-            "The left atrial appendage is normal in appearance with no evidence of thrombus.",
-            "The left atrial appendage displays normal function, with normal emptying velocities.",
-            "A thrombus is seen in the left atrial appendage.",
-            "A left atrial appendage occluder device is present. The device is well seated with no evidence of color flow into the appendage and no thrombus seen.",
-            "The left atrial appendage has been ligated from prior cardiac surgery and is not seen.",
-            "Emptying velocities are reduced.",
-            "Spontaneous echo contrast seen in the left atrium and/or LAA.",
-            "LAA Sludge (preclot) is seen."
-        ],
-        "doppler velocity":[
-            "Tricuspid tissue doppler velocity was <numerical> cm/sec (normal > 10 cm/sec)."
-        ],
-        "other":[
-            "There is grade I diastolic dysfunction."
-        ]
-    },
-    "Right Atrium": {
-        "Right Atrium:": [
-            "Appropriate right atrial appearance for a transplant recipient to include native and donor atria.",
-            "Appropriate right atrial appearance for a transplant recipient.",
-            "Normal right atrial size and morphology.",
-            "Small right atrial size and morphology"
-        ],
-        "RA Area (Evidence based)": [
-            "The right atrium is normal in size.",
-            "Mildly dilated right atrium.",
-            "Moderately dilated right atrium.",
-            "Severely dilated right atrium.",
-            "Prominent Eustachian valve (normal variant).",
-            "Chiari network visualized in right atrium (normal variant).",
-            "Echo density in right atrium suggestive of catheter, pacer lead, or ICD lead.",
-            "Right ventricular assist device cannula seen in right atrium.",
-            "Linear artifact in right atrium suggestive of catheter, pacer lead, or ICD lead."
-        ],
-        "Thrombus": [
-            "There is no evidence of right atrial thrombus.",
-            "Cannot rule out right atrial thrombus.",
-            "A right atrial thrombus is visualized."
-        ],
-        "Tumor": [
-            "An echogenic mass consistent with tumor is visualized.",
-            "The mass is sessile",
-            "The mass is mobile",
-            "The size of the mass is <numerical> mm by <numerical> mm",
-            "Not well visualized."
-        ]
-    },
-    "Atrial Septum": {
-        "Atrial Septum:": [
-            "The interatrial septum is normal in appearance.",
-            "Thin atrial septum",
-            "Post transseptal procedure with left to right shunting.",
-            "Closure Device"
-        ],
-        "Interatrial Septum Appearance": [
-            "There is evidence of an interatrial septal aneurysm, which may be a normal variant.",
-            "There is evidence of an interatrial septal aneurysm",
-            "Interatrial Septum Appearance and The interatrial septum bows from left to right, consistent with elevated left atrial pressure.",
-            "The interatrial septum bows from left to right, consistent with elevated left atrial pressure.",
-            "The interatrial septum bows from right to left, consistent with elevated right atrial pressure.",
-            "Atrial septum color Doppler interrogation consistent with a PFO.",
-            "The interatrial septum is thin and hypermobile."
-        ],
-        "ASD": [
-            "2D echo and color Doppler findings are consistent with a primum atrial septal defect.",
-            "2D echo and color Doppler findings are consistent with a secundum atrial septal defect.",
-            "2D echo and color Doppler findings are consistent with a sinus venosus atrial septal defect."
-        ],
-        "Post trans-septal procedure ASD": [
-            "Post trans-septal procedure with right to left shunting.",
-            "Post trans-septal procedure with left to right shunting.",
-            "Post trans-septal procedure with bidirectional shunting."
-        ],
-        "Shunt": [
-            "No shunt by color Doppler.",
-            "Color flow Doppler and pulse Doppler interrogation reveal predominantly right to left shunting.",
-            "Color flow Doppler and pulse Doppler interrogation reveal predominantly left to right shunting.",
-            "Bidirectional shunting.",
-            "Thin and hypermobile atrial septum."
-        ],
-        "Lipomatous Hypertrophy": [
-            "There is mild lipomatous hypertrophy of the atrial septum.",
-            "There is moderate lipomatous hypertrophy of the atrial septum.",
-            "There is severe lipomatous hypertrophy of the atrial septum.",
-            "Not well visualized."
-        ],
-        "Closure Device": [
-            "Closure Device The position of the device appears satisfactory",
-            "The position of the device appears satisfactory",
-            "color flow Doppler shows no residual flow across the atrial septal device.",
-            "There is mild residual shunting across the atrial septal device.",
-            "There is moderate residual shunting across the atrial septal device.",
-            "There is severe residual shunting across the atrial septal device."
-        ],
-        "Bubble Study": [
-            "Agitated saline bubble study is negative for intracardiac shunt.",
-            "Agitated saline bubble study is early positive, suggestive of patent foramen ovale.",
-            "Agitated saline bubble study is late positive, suggestive of intrapulmonary shunting.",
-            "Agitated saline bubble study demonstrates a negative contrast effect in the right atrium, suggestive of left-to-right shunting.",
-            "Agitated bubble study positive for right to left shunt only on Valsalva suggesting a small PFO."
-        ]
-    },
-    "Mitral Valve": {
-        "Mitral Valve:": [
-            "The mitral valve demonstrates normal function with trace physiologic regurgitation.",
-            "The mitral valve demonstrates normal function.",
-            "The mitral valve demonstrates normal leaflet morphology.",
-            "Mitral valve is not well visualized.",
-            "The appearance of the mitral valve leaflets is consistent with a cleft mitral valve.",
-            "Normal mitral valve morphology and function with no significant stenosis or regurgitation.",
-            "There is evidence of dynamic left ventricular outflow tract obstruction at rest.",
-            "There is no evidence of left ventricular outflow tract obstruction at rest.",
-            "The mitral valve leaflets are status post repair.",
-            "There is mild (<2mm) atheroma of the aortic root or thickening of surgical anastomotic site."
-        ],
-        "Thickened": [
-            "Mitral valve leaflets appear mildly thickened.",
-            "Mitral valve leaflets appear moderately thickened.",
-            "Mitral valve leaflets appear severely thickened.",
-            "Anterior and posterior mitral valve leaflets appear thickened.",
-            "Mitral valve anterior leaflet appears more thickened than the posterior.",
-            "Mitral valve posterior leaflet appears more thickened than the anterior."
-        ],
-        "Calcification": [
-            "Mild MV leaflet calcification.",
-            "Mild to Moderate MV leaflet calcification.",
-            "Moderate MV leaflet calcification.",
-            "Moderate to Severe MV leaflet calcification.",
-            "Severe MV leaflet calcification.",
-            "Anterior and posterior mitral valve leaflets appear calcified.",
-            "Mitral valve anterior leaflet appears more calcified than the posterior.",
-            "Mitral valve posterior leaflet appears more calcified than the anterior."
-        ],
-        "Myxomatous changes": [
-            "There are myxomatous changes to both the anterior and posterior leaflets.",
-            "The Anterior myxomatous changes are greater than the posterior changes.",
-            "There is moderate myxomatous change to the Mitral valve leaflets.",
-            "There is Severe myxomatous change to the Mitral valve leaflets.",
-            "There is mild myxomatous change to the mitral leaflets"
-        ],
-        "Rheumatic deformity": [
-            "There is deformity of the mitral leaflets consistent with rheumatic heart disease.",
-            "There is evidence of fusion of the mitral commissures, consistent with rheumatic heart disease.",
-            "There is doming of the anterior leaflet of the mitral valve in diastole, consistent with rheumatic deformity."
-        ],
-        "Mitral Annular Calcification": [
-            "Mild mitral annular calcification.",
-            "Mild to Moderate mitral annular calcification.",
-            "Moderate mitral annular calcification.",
-            "Moderate to Severe mitral annular calcification.",
-            "Severe mitral annular calcification."
-        ],
-        "Prolapse": [
-            "Mild mitral valve prolapse involving the anterior mitral leaflet.",
-            "Mild to Moderate mitral valve prolapse involving the anterior mitral leaflet.",
-            "Moderate mitral valve prolapse involving the anterior mitral leaflet.",
-            "Severe mitral valve prolapse involving the anterior mitral leaflet.",
-            "Mild mitral valve prolapse involving the posterior mitral valve.",
-            "Mild to Moderate mitral valve prolapse involving the posterior mitral valve.",
-            "Moderate mitral valve prolapse involving the posterior mitral valve.",
-            "Severe mitral valve prolapse involving the posterior mitral valve.",
-            "There is mild bileaflet mitral valve prolapse.",
-            "There is moderate bileaflet mitral valve prolapse, predominantly involving the anterior leaflet.",
-            "There is moderate bileaflet mitral valve prolapse, predominantly involving the posterior leaflet.",
-            "There is moderate symmetric bileaflet mitral valve prolapse.",
-            "There is severe bileaflet mitral valve prolapse, predominantly involving the anterior leaflet.",
-            "There is severe bileaflet mitral valve prolapse, predominantly involving the posterior leaflet.",
-            "There is severe symmetric bileaflet mitral valve prolapse.",
-            "There is no evidence of mitral valve prolapse.",
-            "There is evidence of systolic bowing of the mitral valve leaflets, without diagnostic evidence for mitral valve prolapse."
-        ],
-        "Flail": [
-            "There is flail of the anterior mitral leaflet, with direct evidence for ruptured chordae.",
-            "There is flail of the posterior mitral leaflet, with direct evidence of ruptured chordae."
-        ],
-        "Restriction": [
-            "There is restricted coaptation of the posterior mitral leaflet.",
-            "There is restricted coaptation of the anterior mitral leaflet.",
-            "There is restricted coaptation of the anterior and posterior mitral leaflets."
-        ],
-        "Stenosis (Evidence based)": [
-            "Normal mitral valve morphology and function with no stenosis (a normal variant).",
-            "Mild non-rheumatic mitral stenosis",
-            "Mild mitral stenosis.",
-            "Mild to Moderate mitral stenosis.",
-            "Moderate mitral stenosis.",
-            "Moderate to Severe mitral stenosis.",
-            "Moderate non-rheumatic mitral stenosis.",
-            "Severe mitral stenosis.",
-            "No mitral valve stenosis",
-            "No evidence of mitral valve stenosis."
-        ],
-        "Mitral Prosthesis/Repair Type": [
-            "A ball-in-cage mechanical prosthetic valve is present in the mitral position.",
-            "A bileaflet tilting disk mechanical prosthetic valve is present in the mitral position.",
-            "A single tilting disk mechanical prosthetic valve is present in the mitral position.",
-            "A bioprosthetic valve is present in the mitral position.",
-            "A bioprosthetic valve (in valve) is present in the mitral position",
-            "A bioprosthetic valve in the mitral position",
-            "The mitral valve leaflets are status post repair. A mitral annuloplasty ring is present.",
-            "A mitral annuloplasty ring is present.",
-            "One MitraClip is seen on the anterior and posterior leaflets of the mitral valve.",
-            "Two MitraClips are seen on the anterior and posterior leaflets of the mitral valve.",
-            "TWO MITRACLIPS ARE NOW PRESENT ON THE ANTERIOR AND POSTERIOR MITRAL VALVE LEAFLETS.",
-            "Mitral Valve prosthesis size is <numerical> mm.",
-            "A mechanical prosthetic valve is present in the mitral position.",
-            "Three MitraClips are seen on the anterior and posterior leaflets of the mitral valve.",
-            "Four MitraClips are seen on the anterior and posterior leaflets of the mitral valve"
-        ],
-        "MV Prosthesis Well Seated": [
-            "The mitral valve prosthesis appears well seated.",
-            "There is mild rocking motion of the mitral prosthesis.",
-            "There is moderate rocking motion of the mitral prosthesis.",
-            "There is severe rocking motion of the mitral prosthesis."
-        ],
-        "Prosthesis leaflet motion": [
-            "The mitral prosthesis demonstrates normal leaflet motion.",
-            "The mitral prosthetic leaflet motion appears mildly restricted.",
-            "The mitral prosthetic leaflet motion appears moderately restricted.",
-            "The mitral prosthetic leaflet motion appears severely restricted."
-        ],
-        "Mitral paravalvular Regurgitation": [
-            "There is no evidence of paravalvular mitral regurgitation.",
-            "There is mild paravalvular mitral regurgitation.",
-            "There is mild to moderate paravalvular mitral regurgitation.",
-            "There is moderate paravalvular mitral regurgitation.",
-            "There is moderate to severe paravalvular mitral regurgitation.",
-            "There is severe paravalvular mitral regurgitation.",
-            "Paravalvular mitral regurgitation cannot be excluded, consider TEE for further evaluation."
-        ],
-        "Mitral Prosthesis gradient": [
-            "The mitral prosthesis demonstrates a normal transvalvular gradient for valve type and size.",
-            "The mitral prosthesis demonstrates a mildly increased transvalvular gradient for valve type and size. This is suggestive of mild prosthetic mitral stenosis.",
-            "The mitral prosthesis demonstrates a moderately increased transvalvular gradient for valve type and size. This is suggestive of moderate prosthetic mitral stenosis.",
-            "The mitral prosthesis demonstrates a severely increased transvalvular gradient for valve type and size. This is suggestive of severe prosthetic mitral stenosis."
-        ],
-        "Mitral Vegetation": [
-            "No evidence of vegetation.",
-            "There is no evidence of a mitral valve vegetation.",
-            "There is evidence of a vegetation attached to the anterior leaflet of the mitral valve.",
-            "There is evidence of a vegetation attached to the posterior leaflet of the mitral valve.",
-            "There is evidence of a vegetation attached to the anterior and posterior leaflets of the mitral valve.",
-            "There is evidence of a vegetation on the prosthetic mitral valve.",
-            "Vegetation on the mitral valve cannot be excluded, consider TEE for further evaluation."
-        ],
-        "Mitral Regurgitation": [
-            "No mitral regurgitation seen.",
-            "There is trivial to mild mitral regurgitation",
-            "There is trivial mitral regurgitation.",
-            "There is trivial-mild mitral regurgitation",
-            "There is mild mitral valve regurgitation.",
-            "There is mild mitral regurgitation.",
-            "There is mild to moderate mitral regurgitation.",
-            "There is at least moderate mitral valve regurgitation.",
-            "There is moderate mitral valve regurgitation.",
-            "There is moderate to severe mitral valve regurgitation.",
-            "There is severe mitral regurgitation.",
-            "Doppler findings suggest severe mitral regurgitation, however the normal left ventricular size in not consistent with chronic severe mitral regurgitation and LV volume overload.",
-            "There is very severe mitral regurgitation."
-        ],
-        "Mitral Regurgitation Structural": [
-            "Prominent flail MV leaflet.",
-            "Findings consistent with ruptured papillary muscle.",
-            "There is functional mitral regurgitation.",
-            "There is degenerative mitral regurgitation."
-        ],
-        "Jet flow": [
-            "The mitral regurgitation jet is central.",
-            "The mitral regurgitation jet is eccentric and directed posteriorly.",
-            "The mitral regurgitation jet is eccentric and directed anteriorly.",
-            "The mitral regurgitation jet is eccentric and spread along the left atrial wall.",
-            "The vena contracta of the mitral regurgitation jet is greater than 7 mm in size, indicating severe mitral regurgitation.",
-            "The proximal isovelocity surface area (PISA) derived effective regurgitant orifice are is greater than 0.4 cm2, indicating severe mitral regurgitation.",
-            "There is Doppler evidence of pulmonary vein systolic flow reversal, indicating severe mitral regurgitation.",
-            "The mitral regurgitation jet fills greater than 40% of the left atrium, indicating severe mitral regurgitation.",
-            "Mitral Valve inflow respiratory variation noted."
-        ],
-        "=The": [
-            "The mitral valve area by continuity equation is <numerical> cm2.",
-            "The mitral valve area by pressure half-time is <numerical> cm2."
-        ],
-        "gradient":[
-            "The peak transmitral gradient is <numerical> mmHg",
-            "The mean transmitral gradient is <numerical> mmHg"],
-        "motion":[
-            "There is mild systolic anterior motion of mitral valve.",
-            "There is mild systolic motion of the mitral valve",
-            "There is moderate systolic anterior motion of mitral valve.",
-            "There is severe systolic anterior motion of mitral valve"
-        ]
-    },
-    "Aortic Valve": {
-        "AorVel":[
-            "The peak transaortic velocity is <numerical> cm/s"
-        ],
-        "AorNum":[
-            "The peak transaortic gradient is <numerical> mmHg",
-            "The mean transaortic gradient is <numerical> mmHg"
-        ],
-        "Aortic Valve:": [
-            "Normal appearance and function of the aortic valve.",
-            "No significant aortic stenosis or insufficiency.",
-            "No aortic stenosis.",
-            "No aortic stenosis or insufficiency",
-            "No significant aortic stenosis.",
-            "Aortic valve not well visualized.",
-            "Aortic valve not opening",
-            "There is a mass located at the level of the aortic valve"
-        ],
-        "AoV Morphology": [
-            "Normal aortic valve morphology and function with no stenosis or regurgitation.",
-            "Normal aortic valve function",
-            "Normal aortic valve morphology",
-            "Normal morphology and function of the aortic valve",
-            "Trileaflet aortic valve.",
-            "Findings are consistent with a possible bicuspid aortic valve.",
-            "A bicuspid aortic valve is present.",
-            "The aortic valve appears quadricuspid."
-        ],
-        "Thickened": [
-            "The aortic cusps appear mildly thickened.",
-            "The aortic cusps appear mildly-moderately thickened",
-            "The aortic cusps are moderately thickened in appearance.",
-            "The aortic cusps appear severely thickened."
-        ],
-        "Calcified": [
-            "Aortic cusps appear mildly calcified.",
-            "Aortic cusps appear mildly-moderately calcified.",
-            "Aortic cusps appear moderately calcified.",
-            "Aortic cusps appear severely calcified."
-        ],
-        "Restricted": [
-            "Aortic cusps appear mildly restricted.",
-            "Aortic cusps appear moderately restricted.",
-            "Aortic cusps appear severely restricted.",
-            "Aortic valve sclerosis seen.",
-            "Aortic valve sclerosis without stenosis"
-        ],
-        "Stenosis (Evidence based)": [
-            "No evidence of aortic valve stenosis.",
-            "Mild aortic valve stenosis.",
-            "Mild to Moderate aortic valve stenosis.",
-            "Moderate aortic valve stenosis.",
-            "Moderate to Severe aortic valve stenosis.",
-            "Severe aortic valve stenosis.",
-            "Sclerosis without stenosis"
-        ],
-        "Aortic Prosthesis Type": [
-            "A ball and cage mechanical prosthetic valve is present in the aortic position.",
-            "A bileaflet tilting disk mechanical prosthetic valve is present in the aortic position.",
-            "A single tilting disk mechanical prosthetic valve is present in the aortic position.",
-            "A mechanical prosthetic valve is present in the aortic position.",
-            "A mechanical prosthetic valve in the aortic position",
-            "A homograft valve is present in the aortic position.",
-            "A bioprosthetic valve is present in the aortic position.",
-            "A bioprosthetic valve in the aortic position.",
-            "A bioprosthetic stent-valve is present in the aortic position.",
-            "An autograft aortic valve is present in the aortic position from a Ross procedure.",
-            "An Impella catheter is seen and the inlet area is 3.6 cm from the aortic valve and does not interfere with neighboring structures, consistent with correct Impella positioning."
-        ],
-        "Aortic Prosthesis Well Seated": [
-            "The aortic valve prosthesis appears well seated.",
-            "There is mild rocking motion of the aortic prosthesis.",
-            "There is moderate rocking motion of the aortic prosthesis.",
-            "There is severe rocking motion of the aortic prosthesis."
-        ],
-        "Aortic Prosthesis Leaflet Motion": [
-            "The aortic prosthesis demonstrates normal leaflet motion.",
-            "The aortic prosthetic leaflet motion appears mildly restricted.",
-            "The aortic prosthetic leaflet motion appears moderately restricted.",
-            "The aortic prosthetic leaflet motion appears severely restricted."
-        ],
-        "Aortic paravalvular Regurgitation": [
-            "No transvalvular aortic regurgitation seen.",
-            "There is no evidence of paravalvular aortic regurgitation.",
-            "There is trivial paravalvular aortic regurgitation.",
-            "There is mild paravalvular aortic regurgitation.",
-            "There is mild to moderate paravalvular aortic regurgitation.",
-            "There is moderate paravalvular aortic regurgitation.",
-            "There is moderate paravalvular aortic regurgitation.",
-            "There is severe paravalvular aortic regurgitation.",
-            "There is trace paravalvular aortic regurgitation."
-        ],
-        "Aortic prosthesis gradient": [
-            "The aortic prosthesis demonstrates a normal transvalvular gradient for valve type and size.",
-            "The aortic prosthesis demonstrates a mildly increased transvalvular gradient for valve type and size. This is suggestive of mild prosthetic aortic stenosis.",
-            "The aortic prosthesis demonstrates a moderately increased transvalvular gradient for valve type and size. This is suggestive of moderate prosthetic aortic stenosis.",
-            "The aortic prosthesis demonstrates a severely increased transvalvular gradient for valve type and size. This is suggestive of severe prosthetic aortic stenosis."
-        ],
-        "Aortic vegetation": [
-            "No evidence of vegetation.",
-            "There is no evidence of aortic valve vegetation.",
-            "There is a mobile echo density on the right coronary cusp of the aortic valve consistent with an aortic valve vegetation.",
-            "There is a mobile echo density on the non-coronary cusp of the aortic valve consistent with an aortic valve vegetation.",
-            "There is a mobile echo density on the left coronary cusp of the aortic valve consistent with an aortic valve vegetation.",
-            "There are mobile echo densities on multiple cusps of the aortic valve consistent with aortic valve vegetations.",
-            "There is evidence of a vegetation on the prosthetic aortic valve.",
-            "Vegetation on the aortic valve cannot be excluded, consider TEE for further evaluation."
-        ],
-        "=The": [
-            "The aortic valve area by the continuity equation (using Vmax) is <numerical> cm2.",
-            "The aortic valve area by the continuity equation (using VTI) is <numerical> cm2"
-        ],
-        "Aortic Valve Gradient Qualifiers": [
-            "Transaortic gradient may be underestimated due to low stroke volume secondary to poor left ventricular systolic function.",
-            "Transaortic gradient may be underestimated due to suboptimal Doppler angle.",
-            "Transaortic gradient may be underestimated due to low stroke volume secondary to small left ventricular cavity size.",
-            "Consider use of LV contrast to better assess severity of aortic stenosis.",
-            "Consider use of Dobutamine and/or LV contrast to better assess severity of aortic stenosis."
-        ],
-        "Regurgitation": [
-            "No aortic regurgitation seen.",
-            "Trace aortic regurgitation.",
-            "Trace to mild aortic regurgitation.",
-            "Mild aortic valve regurgitation.",
-            "Mild to moderate aortic regurgitation.",
-            "Mild to Moderate aortic valve regurgitation.",
-            "Mild to Moderate to severe aortic regurgitation.",
-            "Moderate aortic valve regurgitation.",
-            "Moderate to severe aortic regurgitation.",
-            "Severe aortic valve regurgitation.",
-            "Very severe aortic regurgitation."
-        ],
-        "AR Jet flow": [
-            "The aortic regurgitation jet is central.",
-            "The aortic regurgitation jet is eccentric and anteriorly directed.",
-            "The aortic regurgitation jet is eccentric and directed posteriorly."
-        ],
-        "Descending Aortic Flow Reversal": [
-            "There is minimal flow reversal in the descending aorta, which suggests aortic regurgitation is not severe.",
-            "There is moderate flow reversal in the descending aorta, which suggests aortic regurgitation is moderate in severity.",
-            "There is holodiastolic flow reversal in the descending aorta, which suggests severe aortic regurgitation is present."
-        ],
-        "Mechanical Assist Devices": [
-            "The aortic valve remain closed or open intermittently, consistent with normal LVAD function",
-            "Aortic valve does not open or only opens intermittently consistent with normal LVAD function.",
-            "An Impella catheter is seen and the inlet area is <numerical> from the aortic valve and does not interfere with neighboring structures, consistent with correct Impella positioning. There is dense turbulent color flow above the aortic valve, consistent with correct outflow area position",
-            "An Impella catheter is seen across the aortic valve and extends too far into the left ventricle; repositioning recommended",
-            "An Impella catherer is seen",
-            "An Impella catheter is seen, however the inlet area appears to be in the aorta or near the aortic valve; repositioning is recommended.",
-            "An Impella catheter is seen across the aortic valve and is too close to or entangled in the papillary muscle and/or subannular structures surrounding the mitral valve; repositioning recommended."
-        ]
-    },
-    "Tricuspid Valve": {
-        "Tricuspid Valve:": [
-            "Normal tricuspid valve function",
-            "Normal tricuspid valve function (a normal variant).",
-            "Normal appearance of the tricuspid valve.",
-            "Normal morphology of the tricuspid valve.",
-            "Normal right ventricular systolic pressure.",
-            "Normal tricuspid valve morphology and function with no significant stenosis or regurgitation.",
-            "Normal tricuspid valve morphology and function with no stenosis (a normal variant).",
-            "Tricuspid valve not well visualized."
-        ],
-        "=Est": [
-            "Est RV/RA pressure gradient is <numerical> mmHg."
-        ],
-        "=Estimated": [
-            "Estimated peak RVSP is <numerical>+CVP mmHg.",
-            "Estimated peak RVSP is <numerical> +CVP mmHg.",
-            "Estimated peak RVSP is <numerical> + CVP mmHg.",
-            "Estimated peak RVSP is <numerical>+ CVP mmHg.",
-            "Estimated peak RVSP is <numerical> mmHg.",
-            "Estimated peak RVSP is <numerical>"
-        ],
-        "Thickening": [
-            "Tricuspid valve appears mildly thickened.",
-            "Tricuspid valve appears moderately thickened.",
-            "Tricuspid valve appears severely thickened.",
-            "There is severe thickening, shortening, and retraction of the tricuspid leaflets consistent with carcinoid heart disease.",
-            "A tricuspid valve annuloplasty ring is present."
-        ],
-        "TV Prosthesis": [
-            "There is a bioprosthetic valve in the tricuspid position. The valve is well seated with normal leaflet motion.",
-            "A bioprosthetic valve in the tricuspid position",
-            "There is a bio prosthetic valve in the tricuspid position. The valve leaflets appear thickened with decreased motion. Transtricuspid gradient appears elevated, consistent with a stenotic valve.",
-            "One mitraclip seen in the tricuspid position.",
-            "Two mitraclips seen in the tricuspid position."
-        ],
-        "Regurgitation": [
-            "No tricuspid regurgitation seen.",
-            "There is trace/mild tricuspid regurgitation",
-            "There is trivial tricuspid regurgitation.",
-            "There is trivial-mild tricuspid regurgitation.",
-            "There is trivial to mild tricuspid regurgitation.",
-            "There is mild tricuspid regurgitation.",
-            "There is mild to moderate tricuspid regurgitation.",
-            "There is moderate tricuspid regurgitation.",
-            "There is moderate to severe tricuspid regurgitation.",
-            "There is severe tricuspid regurgitation.",
-            "There is at least moderate tricuspid regurgitation",
-            "Very severe tricuspid regurgitation."
-        ],
-        "Prolapse": [
-            "Mild tricuspid valve prolapse involving the anterior tricuspid leaflet.",
-            "Mild to Moderate tricuspid valve prolapse involving the anterior tricuspid leaflet.",
-            "Moderate tricuspid valve prolapse involving the anterior tricuspid leaflet.",
-            "Severe tricuspid valve prolapse involving the anterior tricuspid leaflet.",
-            "Mild tricuspid valve prolapse involving the posterior tricuspid leaflet",
-            "Mild to Moderate tricuspid valve prolapse involving the posterior tricuspid leaflet",
-            "Moderate tricuspid valve prolapse involving the posterior tricuspid leaflet",
-            "Severe tricuspid valve prolapse involving the posterior tricuspid leaflet",
-            "Mild tricuspid valve prolapse involving the septal tricuspid leaflet",
-            "Mild to Moderate tricuspid valve prolapse involving the septal tricuspid leaflet",
-            "Moderate tricuspid valve prolapse involving the septal tricuspid leaflet",
-            "Severe tricuspid valve prolapse involving the septal tricuspid leaflet."
-        ],
-        "Flail": [
-            "There is flail of the anterior tricuspid leaflet, with direct evidence for ruptured chordae.",
-            "There is flail of the posterior tricuspid leaflet, with direct evidence of ruptured chordae."
-        ],
-        "Tricuspid Vegetation": [
-            "There is no evidence of tricuspid valve vegetation.",
-            "No evidence of vegetation.",
-            "There is a mobile echo density on a leaflet of the tricuspid valve consistent with tricuspid valve vegetation.",
-            "There is a mobile echo density on leaflets of the tricuspid valve consistent with tricuspid valve vegetation.",
-            "Vegetation of the tricuspid valve leaflet cannot be excluded, consider TEE for further evaluation."
-        ],
-        "Stenosis(Evidence based)": [
-            "No tricuspid stenosis",
-            "There is mild to moderate tricuspid valve stenosis. The mean gradient is <numerical> mmHg at bpm.",
-            "There is severe tricuspid valve stenosis. The mean gradient is <numerical> mmHg at bpm.",
-            "SEVERE TRICUSPID VALVE STENOSIS",
-            ". MODERATE TRICUSPID VALVE STENOSIS",
-            "SEVERE TRICUSPID STENOSIS",
-            ". MODERATE TRICUSPID STENOSIS"
-                ]
-    },
-    "Pulmonic Valve": {
-        "Pulmonic Valve:": [
-            "Normal pulmonic valve function with trace physiologic regurgitation.",
-            "Normal pulmonic valve morphology and function with no significant stenosis or regurgitation.",
-            "Normal pulmonic valve morphology",
-            "Normal pulmonic valve function",
-            "Normal pulmonic valve appearance.",
-            "Pulmonic valve not well visualized.",
-            "There is severe thickening of the pulmonic valve cusps consistent with carcinoid heart disease.",
-            "A vegetation is seen on the pulmonic valve."
-        ],
-        "PV Prosthesis": [
-            "There is a bioprosthetic valve in the pulmonic position. The valve appears well seated with normal leaflet motion. Transpulmonary gradient is normal.",
-            "A bioprosthetic valve in the pulmonic position",
-            "There is a bioprosthetic stent-valve in the pulmonic position. The valve appears well seated with normal leaflet motion. Transpulmonary gradient is normal.",
-            "There is a bioprosthetic valve in the pulmonic position. The valve leaflets appear thickened with diminished leaflet motion. Transpulmonary gradient is elevated, indicating prosthetic pulmonary valve stenosis."
-        ],
-        "Stenosis (Evidence based)": [
-            "No pulmonic stenosis.",
-            "Mild pulmonary valve stenosis.",
-            "Mild to Moderate pulmonary valve stenosis.",
-            "Moderate pulmonary valve stenosis.",
-            "Moderate to Severe pulmonary valve stenosis.",
-            "Severe pulmonary valve stenosis."
-        ],
-        "Regurgitation": [
-            "No evidence of pulmonic regurgitation.",
-            "There is trivial to mild pulmonic regurgitation.",
-            "There is trivial, physiologic pulmonic regurgitation (a normal variant).",
-            "There is trivial pulmonic regurgitation.",
-            "There is trivial, physiologic pulmonic regurgitation.",
-            "There is mild pulmonic regurgitation.",
-            "There is mild to moderate pulmonic regurgitation.",
-            "There is moderate pulmonic regurgitation.",
-            "There is moderate to severe pulmonic regurgitation.",
-            "There is severe pulmonic regurgitation."
-        ],
-        "Velocity":[
-            "Time-to-peak velocity in the right ventricular outflow tract > 90 ms is consistent with normal pulmonary artery pressure.",
-            "Time-to-peak velocity in the right ventricular outflow tract < 90 ms is consistent with elevated pulmonary artery pressure.",
-            "Time-to-peak velocity in the right ventricular outflow tract < 90 ms is consistent with possible elevated pulmonary artery pressure."
-        ]
-    },
-    "Pericardium": {
-        "Pericardium:": [
-            "Normal pericardium with no pericardial effusion.",
-            "Normal pericardium with trace pericardial effusion",
-            "Not well visualized."
-        ],
-        "Pericardial Effusion": [
-            "Trivial pericardial effusion.",
-            "Small pericardial effusion.",
-            "Small to moderate pericardial effusion.",
-            "Moderate pericardial effusion.",
-            "Moderate to large pericardial effusion.",
-            "Large pericardial effusion.",
-            "The pericardial effusion is and anterior to the heart.",
-            "The pericardial effusion is and posterior to the heart.",
-            "The pericardial effusion is and lateral to the heart.",
-            "The pericardial effusion is and circumferential to the heart.",
-            "The pericardial effusion is and echo-free in appearance.",
-            "The pericardial effusion is and had a fibrin-stranded appearance.",
-            "The pericardial effusion is and had the appearance of pericardial hematoma or clot.",
-            "The pericardial effusion is and is a loculated pericardial effusion.",
-            "The pericardial effusion is circumferential to the heart and had a fibrin-stranded appearance.",
-            "The pericardial effusion is anterior to the heart and posterior to the heart.",
-            "The pericardial effusion is posterior to the heart and lateral to the heart.",
-            "The pericardial effusion is anterior to the heart and is a loculated pericardial effusion.",
-            "The pericardial effusion is anterior to the heart.",
-            "The pericardial effusion is posterior to the heart.",
-            "The pericardial effusion is anterior",
-            "The pericardial effusion is posterior",
-            "The pericardial effusion",
-            "Large organized pleuro-pericardial effusion."
-        ],
-        "Tamponade": [
-            "No echocardiographic evidence to suggest cardiac tamponade.",
-            "Cannot rule out cardiac tamponade.",
-            "There is evidence of early tamponade.",
-            "Cardiac tamponade is present."
-        ],
-        "Tamponade Evidence:": [
-            "There is early right ventricular diastolic collapse.",
-            "There is late right atrial diastolic inversion.",
-            "There is significant respirophasic variation of mitral inflow.",
-            "There is significant respirophasic variation of tricuspid inflow.",
-            "The IVC is dilated with decreased respiratory variation consistent with elevated right atrial pressure.",
-            "Limited RV diastolic expansion.",
-            "Echogenic material seen within the pericardial space.",
-            "Thickened pericardium.",
-            "Findings consistent with pericardial constriction physiology."
-        ],
-        "sth": ["There is an anterior echo free space consistent with epicardial fat pad."],
-        "Pleural Effusion": [
-            "No pleural effusion noted.",
-            "Right pleural effusion seen.",
-            "Left pleural effusion seen.",
-            "Bilateral pleural effusion seen.",
-            "Ascites is present."
-        ]
-    },
-    "Aorta": {
-        "Aorta:": [
-            "Normal aortic root.",
-            "Not well visualized."
-        ],
-        "=Aortic": [
-            "Aortic arch <numerical> cm."
-        ],
-        "Aortic Root Size (Sinus of Valsalva)(Evidence based)": [
-            "The aortic root is normal in size.",
-            "The aortic root is within the upper limits of normal in size by 2D measurement, but visually appears mildly dilated.",
-            "There is mild aortic root dilation.",
-            "There is mild to moderate aortic root dilation.",
-            "There is moderate aortic root dilation.",
-            "There is moderate to severe aortic root dilation.",
-            "There is severe aortic root dilation.",
-            "Aortic annulus diameter <numerical> cm"
-        ],
-        "=Sinus": [
-            "Sinus of Valsalva: <numerical> cm."
-        ],
-        "Sinotubular junction": [
-            "The aortic sinotubular junction is normal in size.",
-            "There is mild aortic sinotubular junction dilation.",
-            "There is mild to Moderate aortic sinotubular junction dilation.",
-            "There is Moderate aortic sinotubular junction dilation.",
-            "There is Moderate to severe aortic sinotubular junction dilation.",
-            "There is severe aortic sinotubular junction dilation."
-        ],
-        "=Sinotubular": [
-            "Sinotubular junction: <numerical> cm."
-        ],
-        "Ascending Aorta": [
-            "The ascending aorta is normal in size.",
-            "There is mild ascending aorta dilation.",
-            "There is mild to moderate ascending aorta dilation.",
-            "There is moderate ascending aorta dilation.",
-            "There is moderate to severe ascending aorta dilation.",
-            "There is severe ascending aorta dilation."
-        ],
-        "=Ascending": [
-            "Ascending Aorta <numerical> cm."
-        ],
-        "Aortic arch": [
-            "Aortic arch normal in size.",
-            "Dilated aortic arch."
-        ],
-        "Aortic graft": [
-            "An aortic graft is present in the root of the aorta.",
-            "An aortic graft is present in the ascending aorta.",
-            "An aortic graft is present in the root and ascending aorta."
-        ],
-        "Descending Aorta": [
-            "Descending aorta normal in size.",
-            "Dilated descending aorta."
-        ],
-        "=Descending": [
-            "Descending Aorta <numerical> cm."
-        ],
-        "Fibrocalcific change": [
-            "There is mild fibrocalcific change of the aortic root, consistent with atherosclerosis.",
-            "There is moderate fibrocalcific change of the aortic root, consistent with atherosclerosis.",
-            "There is severe fibrocalcific change of the aortic root, consistent with atherosclerosis.",
-            "There is aortic root calcification."
-        ],
-        "Atheroma": [
-            "There is mild (<2mm) atheroma of the thoracic aorta.",
-            "There is mild (<2mm) atheroma of the aortic root or thickening of surgical anastomotic site.",
-            "There is moderate (2-4 mm) atheroma of the thoracic aorta.",
-            "There is severe (>4mm) atheroma of the thorcic aorta."
-        ],
-        "=Atheroma": [
-            "Atheroma Thickness <numerical> mm."
-        ],
-        "Hematoma": [
-            "There is a false lumen in the aorta that contains thrombus.",
-            "There is a false lumen in the aorta that is compressing the superior vena cava.",
-            "There is a false lumen in the aorta that is compressing the true aortic lumen.",
-            "There is a false lumen in the aorta that contains thrombus and is compressing the true aortic lumen.",
-            "There is an intramural hematoma extending from the aortic root to the ascending aorta.",
-            "There is an intramural hematoma extending from the aortic root to the descending aorta.",
-            "There is an intramural hematoma extending from the ascending aorta to the aortic arch.",
-            "There is an intramural hematoma extending from the ascending aorta to the descending aorta.",
-            "There is an intramural hematoma limited to the descending aorta.",
-            "There is an intramural hematoma extension."
-        ],
-        "=Hematoma": [
-            "Hematoma size <numerical> cm."
-        ],
-        "Atherosclerotic Ulcer": [
-            "A smooth penetrating atherosclerotic ulcer is present in the descending aorta.",
-            "A irregular shaped penetrating atherosclerotic ulcer is present in the descending aorta."
-        ],
-        "=Lesion": [
-            "Lesion depth is <numerical>."
-        ],
-        "AO dissection": [
-            "There is a dissection of the aorta extending from the aortic root to the aortic arch.",
-            "There is a dissection of the aorta extending from the aortic root to the descending aorta.",
-            "There is a dissection of the aorta extending from the ascending aorta to the aortic arch.",
-            "There is a dissection of the aorta extending from the aortic arch to the descending aorta.",
-            "There is a dissection of the aorta limited to the descending aorta.",
-            "Cannot rule out aortic dissection. Recommend alternative aortic imaging modality."
-        ],
-        "Classification": [
-            "Findings are consistent with a Stanford Type A aortic dissection.",
-            "Findings are consistent with a Stanford Type B aortic dissection.",
-            "Findings are consistent with a DeBakey Type I aortic dissection.",
-            "Findings are consistent with a DeBakey Type II aortic dissection.",
-            "Findings are consistent with a DeBakey Type III aortic dissection."
-        ]
-    },
-    "IVC": {
-        "IVC size": [
-            "The inferior vena cava is dilated and shows a normal respiratory collapse, consistent with elevated right atrial pressure (8mmHg).",  
-            "The inferior vena cava is dilated and demonstrates no inspiratory collapse, consistent with significantly elevated right atrial pressure (15mmHg).",
-            "The inferior vena cava is dilated and demonstrates more than 50% collapse consistent with elevated right atrial pressure (8 mmHg).",
-            "The inferior vena cava is of normal size.",
-            "The inferior vena cava is dilated.",
-            "The inferior vena cava is normal in size and shows a normal respiratory collapse, consistent with normal right atrial pressure (3 mmHg).",
-            "The inferior vena cava is normal in size and shows a normal respiratory collapse, consistent with normal right atrial pressure (3 mmHg)",
-            "The inferior vena cava is normal in size but demonstrates less than 50% collapse, consistent with elevated right atrial pressure (8mmHg)."
-        ],
-        "diam":[
-            "The IVC diameter is <numerical> mm",
-            "The IVC diameter is <numerical> cm"
-        ],
-        "=The": [
-            "The RA pressure measured by catheter at bedside is <numerical> mmHg.",
-            "RA pressure could not be assessed as the IVC is not visualized."
-        ],
-        "RA Pressure Estimate": [
-            "RA pressure could not be assessed as the IVC is not well visualized.",
-            "The inferior vena cava is collapsed at rest consistent with intravascular volume depletion.",
-            "The inferior vena cava shows a normal respiratory collapse consistent with normal right atrial pressure (3 mmHg).",
-            "The inferior vena cava demonstrates less than 50% collapse consistent with elevated right atrial pressure (8 mmHg).",
-            "The inferior vena cava demonstrates no inspiratory collapse, consistent with significantly elevated right atrial pressure (>15 mmHg).",
-            "The inferior vena cava demonstrates no inspiratory collapse, consistent with significantly elevated right atrial pressure (>20 mmHg).",
-            "RA pressure could not be assessed from IVC collapse as the patient is on mechanical ventilation.",
-            "The inferior vena cava is normal in size and shows a normal respiratory collapse, consistent with normal right atrial pressure (3mmHg)"
-        ]
-    },
-    "Pulmonary Artery": {
-        "Pulmonary Artery:": [
-            "Normal pulmonary artery size."
-        ],
-        "PA Enlargement": [
-            "There is mild enlargement of the pulmonary artery.",
-            "There is mild to moderate enlargement of the pulmonary artery.",
-            "There is moderate enlargement of the pulmonary artery.",
-            "There is moderate to severe enlargement of the pulmonary artery.",
-            "There is severe enlargement of the pulmonary artery.",
-            "There is severe enlargement (aneurysm) of the pulmonary artery.",
-            "Not well visualized."
-        ],
-        "=Estimated": [
-            "Estimated PA Pressure is <numerical>+CVP mmHg" ,
-            "Estimated PA Pressure is <numerical> +CVP mmHg" ,
-            "Estimated PA Pressure is <numerical> + CVP mmHg" ,
-            "Estimated PA Pressure is <numerical>+ CVP mmHg" ,
-            "Estimated PA Pressure is <numerical> mmHg.",
-            "Estimated PA Pressure is <numerical>",
-            "Estimated pulmonary artery systolic pressure is <numerical> mmHg",
-            "Estimated pulmonary artery systolic pressure is <numerical> +CVP mmHg",
-            "The mean pulmonary artery pressure was estimated to be <numerical> mmHg.",
-            "The mean pulmonary artery pressure was estimated to be <numerical>mmHg."
-        ],
-        "Pulmonary Artery Systolic Pressure (Evidence based)": [
-            "PA systolic pressure is normal.",
-            "PA systolic pressure is at the upper limits of normal.",
-            "PA systolic pressure is consistent with mild pulmonary hypertension.",
-            "PA systolic pressure is consistent with moderate pulmonary hypertension.",
-            "PA systolic pressure is consistent with severe pulmonary hypertension.",
-            "PA systolic pressure is consistent with critical (near systemic) pulmonary hypertension.",
-            "PA systolic pressure could not be determined due to the lack of a tricuspid regurgitation Doppler signal.",
-            "Repeat study with saline contrast to enhance assessment of peak TR velocity and pulmonary artery systolic pressure.",
-            "PA systolic pressure is consistent with mild to moderate pulmonary hypertension.",
-            "Peak PASP may be underestimated due to inadequate TR jet envelope."
-        ]
-    },
-    "Pulmonary Veins": {
-        "Pulmonary Veins:": [
-            "Pulmonary veins are normal in appearance and pulse Doppler interrogation shows normal systolic predominant flow.",
-            "Could not assess pulmonary vein hemodynamics.",
-            "Difficult to assess due to prior heart transplant."
-
-        ],
-        "Doppler flow": [
-            "The pulmonary venous flow pattern is systolic and diastolic co-dominant.",
-            "The pulmonary venous flow pattern is diastolic predominant, suggestive of elevated left atrial pressure.",
-            "The pulmonary venous flow pattern is diastolic predominant, commonly seen with atrial arrhythmias.",
-            "There is Doppler evidence of systolic flow reversal into the pulmonary veins, suggestive of severe mitral regurgitation.",
-            "The pulmonary venous flow pattern is diastolic predominant, commonly seen after heart transplant.",
-            "The pulmonary venous flow pattern is diastolic predominant, commonly seen with atrial fibrillation.",
-            "The pulmonary venous flow pattern is diastolic predominant, suggestive of elevated left atrial pressure.",
-            "The pulmonary venous flow pattern is diastolic predominant, commonly seen after heart transplant.",
-            "The pulmonary venous flow pattern is diastolic predominant, commonly seen in a young person.",
-            "The pulmonary venous flow pattern is diastolic predominant.",
-            "Doppler interrogation of the pulmonary veins demonstrates high flow velocities, consistent with pulmonary vein stenosis.",
-            "Pulmonary vein A wave consistent with elevated left atrial pressure.",
-            "Peak a wave >35 cm/sec compatible with elevated left atrial pressure.",
-            "There is a mass or thrombus in the XXX pulmonary vein.",
-            "Not well visualized."
-        ]
-    },
-    "Postoperative Findings": {
-        "Postoperative Findings:": [],
-        "gradient":[
-            "The peak transmitral gradient is <numerical> mmHg",
-            "The mean transmitral gradient is <numerical> mmHg"
-        ],
-        "Mitral Valve Repair": [
-            "A mitral annuloplasty ring is seen. Mitral valve leaflets are repaired in appearance.",
-            "A mitral annuloplasty ring is present.",
-            "The mitral leaflets are status post Alfieri stitch repair, with a functioning dual orifice mitral valve."
-        ],
-        "mitral_regurgitation": [
-            "There is trivial to mild mitral regurgitation",
-            "There is mild residual mitral regurgitation.",
-            "There is mild to moderate residual mitral regurgitation.",
-            "There is moderate residual mitral regurgitation.",
-            "There is moderate to severe residual mitral regurgitation.",
-            "There is severe residual mitral regurgitation.",
-            "There is mild-moderate residual mitral regurgitation.",
-            "There is moderate-severe residual mitral regurgitation.",
-            "There is residual mitral regurgitation."
-        ],
-        "MitraClip":[
-            "One MitraClips is present connecting the A2 and P2 segments of the anterior and posterior mitral leaflets. The mean gradient is mmHg at bpm.",
-            "Two MitraClips are present connecting the A2 and P2 segments of the anterior and posterior mitral leaflets. The mean gradient is mmHg at bpm.",
-            "Three MitraClips are seen on the anterior and posterior leaflets of the mitral valve."
-        ],
-        "Mitral valve replacement": [
-            "A bioprosthetic valve is present in the mitral position. The valve is well seated with normal leaflet motion. There is no valvular or perivalvular regurgitation.",
-            "A bioprosthetic stent valve in mitral position",
-            "A bileaflet tilting disk mechanical prosthetic valve is present in the mitral position. The valve is well seated with normal disk motion. There is trace physiologic mitral regurgitation. There is no perivalvular regurgitation.",
-            "A bioprosthetic stent valve is present in the mitral position."
-        ],
-        "Aortic valve replacement": [
-            "A bioprosthetic valve is present in the aortic position. The valve is well seated with normal leaflet motion. There is no valvular or perivalvular regurgitation.",
-            "A bileaflet tilting disk mechanical prosthetic valve is present in the aortic position. The valve is well seated with normal leaflet motion. There is no valvular or perivalvular regurgitation.",
-            "Status post Ross procedure - A pulmonary valve autograft is present in the aortic position. There is mild residual aortic regurgitation.",
-            "A bioprosthetic stent-valve is present in the aortic position. The valve is well seated with normal leaflet motion. There is no significant aortic regurgitation and trivial perivalvular regurgitation.",
-            "A bioprosthetic stent-valve is present in the aortic position.",
-            "A bioprosthetic stent-valve in the aortic position."
-        ],
-        "Tricuspid Valve Repair/Replacement": [
-            "A tricuspid annuloplasty ring is present. There is trivial residual tricuspid regurgitation.",
-            "A bioprosthetic valve is present in the tricuspid position. The valve is well seated with normal leaflet motion. There is no valvular or perivalvular regurgitation."
-        ],
-        "Pulmonic Valve Replacement": [
-            "A bioprosthetic valve is present in the pulmonic position. The valve appears well seated with normal leaflet motion. There is no significant valvular or perivalvular regurgitation.",
-            "A bioprosthetic stent-valve is present in the pulmonic position. The valve appears well seated with normal leaflet motion. There is no significant valvular or perivalvular regurgitation.",
-            "A bioprosthetic stent-valve in the pulmonic position"
-        ],
-        "LVAD": [
-            "A left ventricular assist device cannula is seen in the left ventricular apex."
-        ],
-        "3D Findings:": [
-            "3D echo was used to evaluate the left ventricle in detail."
-        ]
-    }
+  "Left Ventricle": {
+    "Left Ventricle:": [
+      "Lijeva komora nije dobro vizualizirana."
+    ],
+    "Linear Cavity Size- LVIDd 2D (Evidence based)": [
+      "Lijeva komora je grubo normalne veličine i sistoličke funkcije.",
+      "Lijeva komora je normalne veličine i sistoličke funkcije.",
+      "Lijeva komora je mala prema linearnim dimenzijama šupljine.",
+      "Lijeva komora je mala",
+      "Lijeva komora je mala.",
+      "Normalna veličina lijeve komore prema linearnim dimenzijama šupljine.",
+      "Normalna veličina lijeve komore prema volumenu",
+      "Normalna veličina lijeve komore prema volumenu.",
+      "Normalna veličina lijeve komore",
+      "Lijeva komora je normalne veličine i sistoličke funkcije",
+      "Blago dilatirana lijeva komora prema volumenu.",
+      "Blago dilatirana lijeva komora prema linearnim dimenzijama šupljine.",
+      "Blago dilatirana lijeva komora",
+      "Umjereno dilatirana lijeva komora prema linearnim dimenzijama šupljine.",
+      "Umjereno dilatirana lijeva komora prema volumenu.",
+      "Umjereno dilatirana lijeva komora",
+      "Teško dilatirana lijeva komora prema linearnim dimenzijama šupljine.",
+      "Teško dilatirana lijeva komora.",
+      "Blago dilatirana lijeva komora prema volumenu."
+    ],
+    "Volumetric Cavity Size EDV (Evidence based)": [
+      "Lijeva komora je mala.",
+      "Normalna veličina lijeve komore prema volumenu.",
+      "Normalna veličina lijeve komore",
+      "Blago dilatirana lijeva komora prema volumenu.",
+      "Umjereno dilatirana lijeva komora prema volumenu.",
+      "Teško dilatirana lijeva komora prema volumenu."
+    ],
+    "Wall thickness- IVSd 2D or LVPWd 2D (Evidence based)": [
+      "Normalna debljina stijenke lijeve komore.",
+      "Blaga hipertrofija lijeve komore.",
+      "Blaga do umjerena hipertrofija lijeve komore.",
+      "Umjerena hipertrofija lijeve komore.",
+      "Umjerena do teška hipertrofija lijeve komore.",
+      "Teška hipertrofija lijeve komore.",
+      "Nalazi su u skladu s asimetričnom septalnom hipertrofijom.",
+      "Nalazi su u skladu s blagom septalnom hipertrofijom.",
+      "Blaga septalna hipertrofija; preostala debljina stijenke je normalna.",
+      "Blaga do umjerena septalna hipertrofija; preostala debljina stijenke je normalna.",
+      "Umjerena septalna hipertrofija; preostala debljina stijenke je normalna.",
+      "Debljina stijenke lijeve komore je u gornjim granicama normale."
+    ],
+    "Ventricular mass- Linear method": [
+      "Nalazi su u skladu s koncentričnim remodeliranjem.",
+      "Blaga hipertrofija lijeve komore",
+      "Blaga do umjerena hipertrofija lijeve komore",
+      "Umjerena hipertrofija lijeve komore",
+      "Umjerena do teška hipertrofija lijeve komore.",
+      "Teška hipertrofija lijeve komore."
+    ],
+    "Pattern of Hypertrophy": [
+      "Nalazi su u skladu s koncentričnom hipertrofijom.",
+      "Nalazi su u skladu s ekscentričnom hipertrofijom.",
+      "Nalazi su u skladu sa sigmoidnim septumom u starijih",
+      "Nalazi su u skladu s hipertrofičnom kardiomiopatijom.",
+      "Nalazi su u skladu s asimetričnom septalnom hipertrofijom.",
+      "Hipertrofija je ograničena na apeks lijeve komore, u skladu s apikalnom hipertrofičnom kardiomiopatijom.",
+      "Prisutan je veći broj izraženih trabekulacija i dubokih intertrabekularnih recesusa, u skladu s nekompaktnom kardiomiopatijom.",
+      "Obliteracija šupljine lijeve komore.",
+      "Sigmoidno oblikovan septum s blagom fokalnom hipertrofijom bazalnog septuma, do <numerical> cm; preostala debljina stijenke je normalna.",
+      "Umjerena fokalna hipertrofija lijeve komore u anteroseptumu."
+    ],
+    "=Peak": [
+      "Vršni intrakavitarni gradijent je: <numerical> mmHg."
+    ],
+    "LVOT obstruction/SAM": [
+      "Nema sistoličke prednje kretnje listića mitralnog zaliska / opstrukcije izlaznog trakta lijeve komore.",
+      "Prisutan je blagi sistolički anteriorni pokret mitralnog zaliska.",
+      "Blaga sistolička prednja kretnja listića mitralnog zaliska bez značajne opstrukcije izlaznog trakta lijeve komore.",
+      "Blaga do umjerena sistolička prednja kretnja listića mitralnog zaliska bez značajne opstrukcije izlaznog trakta lijeve komore.",
+      "Prisutan je umjeren sistolički anteriorni pokret mitralnog zaliska.",
+      "Prisutan je težak sistolički anteriorni pokret mitralnog zaliska.",
+      "Nema dokaza opstrukcije LV izlaznog trakta u mirovanju.",
+      "Postoje dokazi diskretne membranozne opstrukcije izlaznog trakta lijeve komore.",
+      "Postoje dokazi dinamičke opstrukcije izlaznog trakta lijeve komore u mirovanju."
+    ],
+    "=Resting": [
+      "Gradijent izlaznog trakta u mirovanju je: <numerical> mmHg."
+    ],
+    "=LVOT": [
+      "LVOT gradijent nakon PVC iznosi: <numerical> mmHg.",
+      "LVOT gradijent nakon PVC iznosi: <numerical> mmHg."
+    ],
+    "LV Function- EF 2D (Evidence based)": [
+      "Ukupna sistolička funkcija lijeve komore je normalna",
+      "Sistolička funkcija lijeve komore je hiperdinamična.",
+      "Normalna sistolička funkcija lijeve komore.",
+      "Blago snižena sistolička funkcija lijeve komore.",
+      "Umjereno snižena sistolička funkcija lijeve komore.",
+      "Teško snižena sistolička funkcija lijeve komore.",
+      "VRLO TEŠKA sistolička disfunkcija lijeve komore."
+    ],
+    "=LV": [
+      "LV ejekcijska frakcija je <numerical> %.",
+      "LV ejekcijska frakcija je <numerical>",
+      "Sistolička funkcija lijeve komore je niskonormalna, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je normalna, procijenjena ejekcijska frakcija <numerical> %.",
+      "Sistolička funkcija lijeve komore je normalna, procijenjena ejekcijska frakcija <numerical>%.",
+      "Regionalna pokretljivost stijenke je normalna Sistolička funkcija lijeve komore je normalna, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je normalna, s procijenjenom ejekcijskom frakcijom <numerical> %.",
+      "Sistolička funkcija lijeve komore je normalna, s procijenjenom ejekcijskom frakcijom od <numerical> do <numerical> %.",
+      "Sistolička funkcija lijeve komore je normalna, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je hiperdinamična, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je blago oštećena, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je umjereno oštećena, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je teško oštećena, procijenjena ejekcijska frakcija između <numerical> i <numerical>%.",
+      "Sistolička funkcija lijeve komore je niskonormalna, procijenjena ejekcijska frakcija <numerical>%.",
+      "Sistolička funkcija lijeve komore je blago oštećena, procijenjena ejekcijska frakcija <numerical>",
+      "Sistolička funkcija lijeve komore je umjereno oštećena, procijenjena ejekcijska frakcija <numerical>.",
+      "Sistolička funkcija lijeve komore je teško oštećena, procijenjena ejekcijska frakcija <numerical>",
+      "Sistolička funkcija lijeve komore je bila normalna, ejekcijska frakcija <numerical> %"
+    ],
+    "LV Ejection Fraction Method": [
+      "Ejekcijska frakcija izračunata Simpsonovom biplanskom metodom iznosi <numerical> %.",
+      "Ejekcijska frakcija lijeve komore izračunata je biplanskom metodom po Simpsonu.",
+      "Ejekcijska frakcija lijeve komore izračunata je jednoplanskom metodom po Simpsonu.",
+      "Za izračun LVEF korišten je Teichholzov metod.",
+      "Ejekcijska frakcija lijeve komore procijenjena je na <numerical>-<numerical>%.",
+      "Ejekcijska frakcija lijeve komore procijenjena je na <numerical> %.",
+      "Vizuelno procijenjena ejekcijska frakcija lijeve komore je <numerical> %.",
+      "Ejekcijska frakcija lijeve komore procijenjena je na <numerical>",
+      "Vizuelno procijenjena ejekcijska frakcija lijeve komore je <numerical>",
+      "Ejekcijska frakcija lijeve komore nije se mogla tačno procijeniti zbog slabe definicije endokardijalne granice.",
+      "Ejekcijska frakcija izračunata Simpsonovom biplanskom metodom iznosi <numerical> %.",
+      "Vizuelno procijenjeni LVEF je <numerical>-<numerical>%.",
+      "Vizuelno procijenjena ejekcijska frakcija lijeve komore je <numerical> %."
+    ],
+    "Septal Motion": [
+      "Obrnuta pokretljivost interventrikularnog septuma se vidi i čest je nalaz kod bolesnika nakon operacije na otvorenom srcu.",
+      "Paradoksna pokretljivost septuma u skladu s intraventrikularnim kašnjenjem provođenja ili blokom grane.",
+      "Paradoksna pokretljivost septuma u skladu s RV pejsmejkerom.",
+      "Prisutan je spljošten interventrikularni septum u dijastoli, u skladu s volumskim preopterećenjem desne komore.",
+      "Prisutan je spljošten interventrikularni septum u sistoli i dijastoli, u skladu s pritiskom i volumskim preopterećenjem desne komore.",
+      "Prisutan je septalni odskok u kasnoj dijastoli, u skladu s konstriktivnom fiziologijom."
+    ],
+    "Thrombus": [
+      "Nema dokaza tromba",
+      "Nije vizualiziran tromb u lijevoj komori.",
+      "Ne može se isključiti apikalni muralni tromb lijeve komore. Preporučuje se ponoviti pregled s kontrastom za lijevu komoru.",
+      "Postoji mogućnost apikalnog muralnog tromba lijeve komore.",
+      "Nalazi su u skladu s vjerovatnim apikalnim muralnim trombom lijeve komore.",
+      "Postoje dokazi apikalnog muralnog tromba lijeve komore.",
+      "Spontani kontrast u skladu sa stazom.",
+      "Postoje dokazi mobilnog protrudirajućeg apikalnog muralnog tromba lijeve komore <numerical> cm × <numerical> cm sa značajnim embolijskim potencijalom."
+    ],
+    "Tumor": [
+      "Vizualizirana je ehogena masa u skladu s tumorom.",
+      "Masa je sesilna",
+      "Masa je mobilna",
+      "Veličina mase je <numerical> mm × <numerical> mm"
+    ],
+    "Diastolic Function": [
+      "Nije moguće procijeniti dijastoličku funkciju zbog nepravilnog srčanog ritma.",
+      "Dijastolička funkcija je nedeterminirana zbog neusklađenih parametara.",
+      "Dijastolička funkcija je normalna",
+      "Dijastolički parametri lijeve komore bili su normalni.",
+      "Blaga dijastolička disfunkcija. Postoji inverzija E/A odnosa i/ili produženo vrijeme deceleracije u skladu s poremećajem relaksacije lijeve komore.",
+      "Umjerena dijastolička disfunkcija. Obilježja u skladu s pseudonormalnim obrascem punjenja lijeve komore, uz istodobno poremećeno relaksiranje i povišene pritiske punjenja.",
+      "Teška dijastolička disfunkcija. Tkivni Doppler/Mitralni Doppler indeksi u skladu su s restriktivnom fiziologijom s izraženo povišenim pritiscima u lijevoj pretkomori u mirovanju.",
+      "Zbog tahikardije dolazi do fuzije ranog i atrijalnog doprinosa punjenju. Dijastolička funkcija lijeve komore je nedeterminirana.",
+      "Dijastolička funkcija lijeve komore nije mogla biti procijenjena zbog prisutne fibrilacije pretkomora tokom pregleda.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana u ovoj studiji zbog prisutne mitralne stenoze.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana u ovoj studiji zbog prisutnog popravka mitralnog zaliska.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana u ovoj studiji zbog prisutnog popravka ili zamjene mitralnog zaliska.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana u ovoj studiji zbog izražene kalcifikacije mitralnog anulusa.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana jer je pacijent imao transplantaciju srca.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana u ovoj studiji",
+      "Dijastolička funkcija lijeve komore je nedeterminirana jer pacijent ima ekscentričnu aortnu regurgitaciju.",
+      "Dijastolička funkcija lijeve komore nije mogla biti procijenjena zbog srčanog ritma tokom pregleda.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana u ovoj studiji zbog prisutnog pejsmejkera.",
+      "Teško procjenjivo zbog ranije transplantacije srca.",
+      "Dijastolička funkcija lijeve komore je nedeterminirana.",
+      "Postoji dijastolička disfunkcija stepena I.",
+      "Postoji dijastolička disfunkcija stepena II."
+    ],
+    "Filling Pressure": [
+      "Doppler parametri su u skladu s niskim pritiscima punjenja i smanjenim intravaskularnim volumenom.",
+      "Doppler parametri i/ili lateralne brzine mitralnog anulusa (E`) u skladu su s normalnim pritiscima punjenja lijeve komore.",
+      "Doppler parametri i/ili lateralne brzine mitralnog anulusa (E`) u skladu su s povišenim pritiscima punjenja lijeve komore.",
+      "Doppler parametri i/ili lateralne brzine mitralnog anulusa (E`) u skladu su sa značajno povišenim pritiscima punjenja lijeve komore.",
+      "Doppler parametri kompatibilni s mladim transplantiranim srcem.",
+      "Prisajedinjenje ranog i atrijalnog doprinosa punjenju."
+    ],
+    "LVAD": [
+      "U apeksu lijeve komore vidi se ulazna kanila uređaja za potporu lijeve komore, orijentirana prema mitralnom zalisku, a interventrikularni septum je neutralan, u skladu s normalnom LVAD funkcijom. Color i pulsni Doppler kanile LVAD pokazuju normalan laminarn i tok.",
+      "U lijevoj komori se vidi ulazna kanila uređaja za potporu lijeve komore usmjerena prema interventrikularnom septumu, što sugerira abnormalan položaj.",
+      "U apeksu lijeve komore vidi se ulazna kanila LVAD, a LV djeluje distendirano. Color i pulsni Doppler kanile pokazuju turbulentan tok i/ili postoji regurgitantni tok, u skladu s abnormalnom LVAD funkcijom.",
+      "U apeksu lijeve komore vidi se ulazna kanila LVAD, a interventrikularni septum je pomaknut ulijevo, što sugerira hipovolemiju, pretjeranu dekompresiju ili RV disfunkciju.",
+      "U apeksu lijeve komore vidi se ulazna kanila LVAD, a interventrikularni septum je pomaknut udesno, što sugerira opstrukciju ili neispravnost LVAD.",
+      "U apeksu lijeve komore vidi se ulazna kanila LVAD i LV djeluje dekompresiran.",
+      "Tokovi normalni; Color i pulsni Doppler kanile LVAD pokazuju normalan tok.",
+      "U apeksu lijeve komore vidi se ulazna kanila LVAD i LV djeluje dekompresiran; aortni zalistak se ne otvara ili se otvara povremeno, u skladu s normalnom LVAD funkcijom."
+    ],
+    "VSD Size": [
+      "Vidljiv je mali ventrikularni septalni defekt.",
+      "Vidljiv je VSD srednje veličine.",
+      "Vidljiv je veliki ventrikularni septalni defekt."
+    ],
+    "VSD Type": [
+      "Izgled je u skladu s ulaznim (inlet) ventrikularnim septalnim defektom.",
+      "Izgled je u skladu sa suprakristalnim ventrikularnim septalnim defektom.",
+      "Izgled je u skladu s perimembranoznim ventrikularnim septalnim defektom.",
+      "Izgled je u skladu s mišićnim ventrikularnim septalnim defektom.",
+      "Izgled je u skladu s kompletnim AV kanal defektom.",
+      "Izgled je u skladu s postinfarktnim tipom ventrikularnog septalnog defekta."
+    ],
+    "VSD Shunting": [
+      "Doppler dokazi šantiranja slijeva nadesno preko VSD-a.",
+      "Doppler dokazi šantiranja zdesna nalijevo preko VSD-a.",
+      "Doppler dokazi dvosmjernog šantiranja preko VSD-a.",
+      "Vizualizirana je VSD zakrpa.",
+      "Preko VSD-a je viđen okluder.",
+      "U lijevoj komori se vidi lažni tetivni tračak, normalan nalaz.",
+      "Globalni longitudinalni strain iznosi <numerical> %.",
+      "Globalni longitudinalni strain iznosi -<numerical> %."
+    ],
+    "Wall Motion": [
+      "Regionalna pokretljivost stijenke je normalna",
+      "Postoji aneurizma <string>.",
+      "Regionalna pokretljivost stijenke je abnormalna.",
+      "Postoji hipokinezija <string>.",
+      "Cijela bazalna stijenka pokazuje normalnu pokretljivost.",
+      "Preostali segmenti lijeve komore pokazuju normalnu pokretljivost stijenke.",
+      "Cijela srednja stijenka pokazuje normalnu pokretljivost.",
+      "Cijela anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Postoji diskinezija <string>.",
+      "Cijela lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna prednja stijenka pokazuje normalnu pokretljivost.",
+      "Srednja prednja stijenka pokazuje normalnu pokretljivost.",
+      "Nema grubih regionalnih poremećaja pokretljivosti stijenke.",
+      "Regionalna pokretljivost stijenke je abnormalna",
+      "Srednja lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anterolateralna do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Nema regionalnih poremećaja pokretljivosti stijenke",
+      "Apikalna kapa pokazuje normalnu pokretljivost.",
+      "Preostali segmenti lijeve komore pokazuju hipokineziju.",
+      "Regionalna pokretljivost stijenke je normalna.",
+      "Cijela inferoseptalna stijenka pokazuje normalnu pokretljivost.",
+      "Srednja anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Nema regionalnih poremećaja pokretljivosti stijenke",
+      "Srednja prednja do srednje anterolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Nalazi segmentalne pokretljivosti stijenke u mirovanju.",
+      "Postoji globalna hipokinezija s regionalnom varijacijom.",
+      "Teška globalna hipokinezija",
+      "Globalna hipokinezija je prisutna",
+      "Teška globalna hipokinezija je prisutna.",
+      "Bazalna prednja do lateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna prednja do bazalne anterolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Cijela prednja stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anteroseptalna do inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna do srednje anteroseptalne stijenke pokazuju normalnu pokretljivost.",
+      "Nema grubih regionalnih poremećaja pokretljivosti stijenke.",
+      "Bazalna inferolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Apikalna kapa nije vizualizirana.",
+      "Srednja prednja do lateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anteroseptalna do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Postoji akinezija <string>.",
+      "Bazalna prednja do bazalne anterolateralne do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna prednja stijenka nije vizualizirana.",
+      "Apikalna aneurizma bez očiglednog tromba."
+    ],
+    "Quality": [
+      "Teško procjenjivo zbog ranije transplantacije srca.",
+      "Nema dokaza vegetacije."
+    ]
+  },
+  "Resting Segmental Wall Motion Analysis": {
+    "Resting Segmental Wall Motion Analysis:": [
+      "Postoji globalna hipokinezija lijeve komore.",
+      "Regionalna pokretljivost stijenke je normalna.",
+      "Regionalna pokretljivost stijenke je normalna",
+      "Preostali segmenti lijeve komore pokazuju normalnu pokretljivost stijenke.",
+      "Preostali segmenti lijeve komore pokazuju akineziju.",
+      "Preostali segmenti lijeve komore nisu vidljivi.",
+      "Regionalna pokretljivost stijenke je abnormalna"
+    ],
+    "Score": [
+      "Ukupni skor pokretljivosti stijenke je <numerical>."
+    ],
+    "Wall Motion": [
+      "Regionalna pokretljivost stijenke je normalna",
+      "Postoji aneurizma <string>.",
+      "Regionalna pokretljivost stijenke je abnormalna.",
+      "Postoji hipokinezija <string>.",
+      "Cijela bazalna stijenka pokazuje normalnu pokretljivost.",
+      "Preostali segmenti lijeve komore pokazuju normalnu pokretljivost stijenke.",
+      "Cijela srednja stijenka pokazuje normalnu pokretljivost.",
+      "Cijela anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Postoji diskinezija <string>.",
+      "Cijela lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna prednja stijenka pokazuje normalnu pokretljivost.",
+      "Srednja prednja stijenka pokazuje normalnu pokretljivost.",
+      "Nema grubih regionalnih poremećaja pokretljivosti stijenke.",
+      "Regionalna pokretljivost stijenke je abnormalna",
+      "Srednja lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anterolateralna do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Nema regionalnih poremećaja pokretljivosti stijenke",
+      "Apikalna kapa pokazuje normalnu pokretljivost.",
+      "Preostali segmenti lijeve komore pokazuju hipokineziju.",
+      "Regionalna pokretljivost stijenke je normalna.",
+      "Cijela inferoseptalna stijenka pokazuje normalnu pokretljivost.",
+      "Srednja anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Nema regionalnih poremećaja pokretljivosti stijenke",
+      "Srednja prednja do srednje anterolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Nalazi segmentalne pokretljivosti stijenke u mirovanju.",
+      "Postoji globalna hipokinezija s regionalnom varijacijom.",
+      "Bazalna prednja do lateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna prednja do bazalne anterolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Cijela prednja stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anteroseptalna do inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna do srednje anteroseptalne stijenke pokazuju normalnu pokretljivost.",
+      "Nema grubih regionalnih poremećaja pokretljivosti stijenke.",
+      "Bazalna inferolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Apikalna kapa nije vizualizirana.",
+      "Srednja prednja do lateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anteroseptalna do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Postoji akinezija <string>.",
+      "Bazalna prednja do bazalne anterolateralne do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna prednja stijenka nije vizualizirana."
+    ],
+    "Visualized": [
+      "Prednja stijenka od bazalnog do apikalnog segmenta nije vizualizirana.",
+      "Inferiorna stijenka od bazalnog do apikalnog segmenta nije vizualizirana.",
+      "Regionalna pokretljivost stijenke nije mogla biti procijenjena zbog slabe definicije endokardijalne granice.",
+      "Cijela prednja stijenka nije vizualizirana",
+      "Cijela anterolateralna stijenka nije vizualizirana."
+    ]
+  },
+  "Right Ventricle": {
+    "Right Ventricle:": [
+      "Normalna veličina i sistolička funkcija desne komore.",
+      "Veličina desne komore nije dobro vizualizirana."
+    ],
+    "=TAPSE": [
+      "TAPSE je <numerical> cm",
+      "TAPSE je <numerical>cm",
+      "TAPSE je bio <numerical> cm",
+      "TAPSE je bio <numerical>cm"
+    ],
+    "Cavity Size- RVDd 2D (Evidence based)": [
+      "Normalna veličina desne komore.",
+      "Blago dilatirana desna komora.",
+      "Umjereno dilatirana desna komora.",
+      "Teško dilatirana desna komora.",
+      "Smanjena veličina desne komore."
+    ],
+    "RV Systolic Function": [
+      "Normalna sistolička funkcija desne komore.",
+      "Hiperdinamična sistolička funkcija desne komore.",
+      "Blago snižena sistolička funkcija desne komore.",
+      "Umjereno snižena sistolička funkcija desne komore.",
+      "Teško snižena sistolička funkcija desne komore.",
+      "Teško snižena RV sistolička funkcija uz obrazac koji štedi apeks RV-a (McConnellov znak), nalaz koji sugerira akutno preopterećenje pritiskom desne komore."
+    ],
+    "Wall Motion": [
+      "Regionalna pokretljivost stijenke je normalna",
+      "Postoji aneurizma <string>.",
+      "Regionalna pokretljivost stijenke je abnormalna.",
+      "Postoji hipokinezija <string>.",
+      "Cijela bazalna stijenka pokazuje normalnu pokretljivost.",
+      "Preostali segmenti lijeve komore pokazuju normalnu pokretljivost stijenke.",
+      "Cijela srednja stijenka pokazuje normalnu pokretljivost.",
+      "Cijela anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Postoji diskinezija <string>.",
+      "Cijela lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna prednja stijenka pokazuje normalnu pokretljivost.",
+      "Srednja prednja stijenka pokazuje normalnu pokretljivost.",
+      "Nema grubih regionalnih poremećaja pokretljivosti stijenke.",
+      "Regionalna pokretljivost stijenke je abnormalna",
+      "Srednja lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anterolateralna do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Nema regionalnih poremećaja pokretljivosti stijenke",
+      "Apikalna kapa pokazuje normalnu pokretljivost.",
+      "Preostali segmenti lijeve komore pokazuju hipokineziju.",
+      "Regionalna pokretljivost stijenke je normalna.",
+      "Cijela inferoseptalna stijenka pokazuje normalnu pokretljivost.",
+      "Srednja anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Nema regionalnih poremećaja pokretljivosti stijenke",
+      "Srednja prednja do srednje anterolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Nalazi segmentalne pokretljivosti stijenke u mirovanju.",
+      "Postoji globalna hipokinezija s regionalnom varijacijom.",
+      "Bazalna prednja do lateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna prednja do bazalne anterolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Cijela prednja stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anteroseptalna do inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna do srednje anteroseptalne stijenke pokazuju normalnu pokretljivost.",
+      "Nema grubih regionalnih poremećaja pokretljivosti stijenke.",
+      "Bazalna inferolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Apikalna kapa nije vizualizirana.",
+      "Srednja prednja do lateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna lateralna stijenka pokazuje normalnu pokretljivost.",
+      "Bazalna anteroseptalna do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna anterolateralna stijenka pokazuje normalnu pokretljivost.",
+      "Postoji akinezija <string>.",
+      "Bazalna prednja do bazalne anterolateralne do bazalne inferolateralne stijenke pokazuju normalnu pokretljivost.",
+      "Bazalna prednja stijenka nije vizualizirana."
+    ],
+    "Hypertrophy": [
+      "Granična hipertrofija desne komore.",
+      "Granično snižena sistolička funkcija desne komore.",
+      "Blaga hipertrofija desne komore.",
+      "Blaga do umjerena hipertrofija desne komore.",
+      "Umjerena hipertrofija desne komore.",
+      "Umjerena do teška hipertrofija desne komore.",
+      "Teška hipertrofija desne komore.",
+      "Istaknut moderatorni tračak – normalna varijanta.",
+      "Eho‑denzitet u desnoj komori sugestivan za kateter, pejsmejker elektrodu ili ICD elektrodu.",
+      "Eho‑denzitet u desnoj komori sugestivan za ICD elektrodu.",
+      "Desna komora nije dobro vizualizirana."
+    ],
+    "Right ventricular assist device": [
+      "je prisutan.",
+      "izgleda da funkcioniše normalno.",
+      "nalazi sugeriraju neispravno funkcionisanje."
+    ],
+    "Masses": [
+      "Vizualizirana je ehogena masa u skladu s tumorom.",
+      "Vizualizirana je ehogena masa u skladu s trombom.",
+      "Masa je sesilna",
+      "Masa je mobilna",
+      "Veličina mase je <numerical> mm × <numerical> mm"
+    ],
+    "doppler velocity": [
+      "Tkivna Doppler brzina trikuspidalnog prstena bila je <numerical> cm/sec (normalno > 10 cm/sec)."
+    ],
+    "other": [
+      "Promjena frakcije površine bila je > 35%.",
+      "Debljina stijenke desne komore je bila normalna."
+    ]
+  },
+  "Left Atrium": {
+    "Left Atrium:": [
+      "Normalna veličina i morfologija lijeve pretkomore.",
+      "Odgovarajući izgled lijeve pretkomore za primatelja transplantata."
+    ],
+    "LA Area (Evidence Based)": [
+      "Lijeva pretkomora je normalne veličine.",
+      "Blago dilatirana lijeva pretkomora.",
+      "Umjereno dilatirana lijeva pretkomora.",
+      "Teško dilatirana lijeva pretkomora."
+    ],
+    "Thrombus": [
+      "Nema tromba u lijevoj pretkomori.",
+      "Nije moguće isključiti tromb u lijevoj pretkomori.",
+      "Uočen je tromb u lijevoj pretkomori.",
+      "Nije vizualiziran tromb u LAA.",
+      "Ostale stijenke se dobro kontrahuju."
+    ],
+    "Tumor": [
+      "Vizualizirana je ehogena masa u skladu s tumorom.",
+      "Masa je sesilna",
+      "Masa je mobilna",
+      "Veličina mase je <numerical> mm × <numerical> mm"
+    ],
+    "Left atrial appendage": [
+      "Lijevi aurikularni nastavak (LAA) normalnog izgleda, bez dokaza tromba.",
+      "Lijevi aurikularni nastavak pokazuje normalnu funkciju, s normalnim brzinama pražnjenja.",
+      "U LAA se vidi tromb.",
+      "Prisutan je okluder LAA. Uređaj je dobro postavljen, bez dokaza kolor‑toka u nastavak i bez vidljivog tromba.",
+      "Lijevi aurikularni nastavak je ligiran prethodnom kardijalnom operacijom i ne vidi se.",
+      "Brzine pražnjenja su snižene.",
+      "Spontani eho‑kontrast u lijevoj pretkomori i/ili LAA.",
+      "Uočen je LAA sludge (preklot)."
+    ],
+    "doppler velocity": [
+      "Tkivna Doppler brzina trikuspidalnog prstena bila je <numerical> cm/sec (normalno > 10 cm/sec)."
+    ],
+    "other": [
+      "Postoji dijastolička disfunkcija stepena I."
+    ]
+  },
+  "Right Atrium": {
+    "Right Atrium:": [
+      "Odgovarajući izgled desne pretkomore za primatelja transplantata uključujući native i donorsku pretkomoru.",
+      "Odgovarajući izgled desne pretkomore za primatelja transplantata.",
+      "Normalna veličina i morfologija desne pretkomore.",
+      "Mala veličina i morfologija desne pretkomore"
+    ],
+    "RA Area (Evidence based)": [
+      "Desna pretkomora je normalne veličine.",
+      "Blago dilatirana desna pretkomora.",
+      "Umjereno dilatirana desna pretkomora.",
+      "Teško dilatirana desna pretkomora.",
+      "Istaknut Eustahijev zalistak (normalna varijanta).",
+      "U desnoj pretkomori vizualizirana Chiari mreža (normalna varijanta).",
+      "Eho‑denzitet u desnoj pretkomori sugestivan za kateter, pejsmejker elektrodu ili ICD elektrodu.",
+      "Kanila uređaja za potporu desne komore viđena u desnoj pretkomori.",
+      "Linearni artefakt u desnoj pretkomori sugestivan za kateter, pejsmejker elektrodu ili ICD elektrodu."
+    ],
+    "Thrombus": [
+      "Nema dokaza tromba u desnoj pretkomori.",
+      "Ne može se isključiti tromb u desnoj pretkomori.",
+      "Vizualiziran je tromb u desnoj pretkomori."
+    ],
+    "Tumor": [
+      "Vizualizirana je ehogena masa u skladu s tumorom.",
+      "Masa je sesilna",
+      "Masa je mobilna",
+      "Veličina mase je <numerical> mm × <numerical> mm",
+      "Nije dobro vizualizirano."
+    ]
+  },
+  "Atrial Septum": {
+    "Atrial Septum:": [
+      "Interatrijski septum je normalnog izgleda.",
+      "Tanak interatrijski septum",
+      "Nakon transseptalne procedure sa šantom slijeva nadesno.",
+      "Uređaj za zatvaranje"
+    ],
+    "Interatrial Septum Appearance": [
+      "Postoje dokazi aneurizme interatrijskog septuma, što može biti normalna varijanta.",
+      "Postoje dokazi aneurizme interatrijskog septuma",
+      "Izgled interatrijskog septuma i Interatrijski septum se povija s lijeva nadesno, u skladu s povišenim pritiskom u lijevoj pretkomori.",
+      "Interatrijski septum se povija s lijeva nadesno, u skladu s povišenim pritiskom u lijevoj pretkomori.",
+      "Interatrijski septum se povija zdesna nalijevo, u skladu s povišenim pritiskom u desnoj pretkomori.",
+      "Color Doppler ispitivanje atrijalnog septuma u skladu s PFO.",
+      "Interatrijski septum je tanak i hipermobilan."
+    ],
+    "ASD": [
+      "Nalazi 2D eha i kolor Dopplera u skladu su s primum atrijskim septalnim defektom.",
+      "Nalazi 2D eha i kolor Dopplera u skladu su sa sekundum atrijskim septalnim defektom.",
+      "Nalazi 2D eha i kolor Dopplera u skladu su sa sinus venosus atrijskim septalnim defektom."
+    ],
+    "Post trans-septal procedure ASD": [
+      "Nakon trans‑septalne procedure s desno‑lijevim šantom.",
+      "Nakon trans‑septalne procedure s lijevo‑desnim šantom.",
+      "Nakon trans‑septalne procedure s dvosmjernim šantom."
+    ],
+    "Shunt": [
+      "Nema šanta na kolor Doppleru.",
+      "Color flow Doppler i pulsni Doppler ukazuju na pretežno desno‑lijevi šant.",
+      "Color flow Doppler i pulsni Doppler ukazuju na pretežno lijevo‑desni šant.",
+      "Dvosmjerni šant.",
+      "Tanak i hipermobilan atrijalni septum."
+    ],
+    "Lipomatous Hypertrophy": [
+      "Blaga lipomatozna hipertrofija atrijalnog septuma.",
+      "Umjerena lipomatozna hipertrofija atrijalnog septuma.",
+      "Teška lipomatozna hipertrofija atrijalnog septuma.",
+      "Nije dobro vizualizirano."
+    ],
+    "Closure Device": [
+      "Uređaj za zatvaranje Položaj uređaja izgleda zadovoljavajuće",
+      "Položaj uređaja izgleda zadovoljavajuće",
+      "color Doppler ne pokazuje rezidualni tok preko septalnog uređaja.",
+      "Prisutan je blagi rezidualni šant preko atrijalnog septalnog uređaja.",
+      "Prisutan je umjereni rezidualni šant preko atrijalnog septalnog uređaja.",
+      "Prisutan je teški rezidualni šant preko atrijalnog septalnog uređaja."
+    ],
+    "Bubble Study": [
+      "Studija s ubrizganom agitiranom fiziološkom otopinom je negativna na intrakardijalni šant.",
+      "Studija s agitiranom fiziološkom je rano pozitivna, što sugerira PFO.",
+      "Studija s agitiranom fiziološkom je kasno pozitivna, što sugerira intrapulmonalno šantiranje.",
+      "Studija s agitiranom fiziološkom pokazuje negativni kontrastni efekt u desnoj pretkomori, što sugerira lijevo‑desni šant.",
+      "Studija s agitiranom fiziološkom pozitivna na desno‑lijevi šant samo uz Valsalvu, što sugerira mali PFO."
+    ]
+  },
+  "Mitral Valve": {
+    "Mitral Valve:": [
+      "Mitralni zalistak pokazuje normalnu funkciju s tragom fiziološke regurgitacije.",
+      "Mitralni zalistak pokazuje normalnu funkciju.",
+      "Listići mitralnog zaliska normalne morfologije.",
+      "Mitralni zalistak nije dobro vizualiziran.",
+      "Izgled listića mitralnog zaliska u skladu je s rasjedinom mitralnog zaliska.",
+      "Normalna morfologija i funkcija mitralnog zaliska bez značajne stenoze ili regurgitacije.",
+      "Postoje dokazi dinamičke opstrukcije izlaznog trakta lijeve komore u mirovanju.",
+      "Nema dokaza opstrukcije izlaznog trakta lijeve komore u mirovanju.",
+      "Listići mitralnog zaliska su status post popravak.",
+      "Prisutan je blagi (<2mm) aterom korijena aorte ili zadebljanje na mjestu hirurške anastomoze."
+    ],
+    "Thickened": [
+      "Listići mitralnog zaliska djeluju blago zadebljani.",
+      "Listići mitralnog zaliska djeluju umjereno zadebljani.",
+      "Listići mitralnog zaliska djeluju teško zadebljani.",
+      "Prednji i stražnji listići mitralnog zaliska djeluju zadebljani.",
+      "Prednji listić mitralnog zaliska djeluje zadebljaniji od stražnjeg.",
+      "Stražnji listić mitralnog zaliska djeluje zadebljaniji od prednjeg."
+    ],
+    "Calcification": [
+      "Blaga kalcifikacija listića mitralnog zaliska.",
+      "Blaga do umjerena kalcifikacija listića mitralnog zaliska.",
+      "Umjerena kalcifikacija listića mitralnog zaliska.",
+      "Umjerena do teška kalcifikacija listića mitralnog zaliska.",
+      "Teška kalcifikacija listića mitralnog zaliska.",
+      "Prednji i stražnji listići mitralnog zaliska djeluju kalcificirani.",
+      "Prednji listić mitralnog zaliska djeluje kalcificiraniji od stražnjeg.",
+      "Stražnji listić mitralnog zaliska djeluje kalcificiraniji od prednjeg."
+    ],
+    "Myxomatous changes": [
+      "Miksomatozne promjene na prednjem i stražnjem listiću.",
+      "Prednje miksomatozne promjene izraženije su od stražnjih.",
+      "Umjerene miksomatozne promjene listića mitralnog zaliska.",
+      "Teške miksomatozne promjene listića mitralnog zaliska.",
+      "Blage miksomatozne promjene na mitralnim listićima"
+    ],
+    "Rheumatic deformity": [
+      "Deformitet listića mitralnog zaliska u skladu je s reumatskom bolešću srca.",
+      "Postoje dokazi fuzije mitralnih komisura, u skladu s reumatskom bolešću srca.",
+      "U dijastoli je prisutno „doming” prednjeg listića mitralnog zaliska, u skladu s reumatskim deformitetom."
+    ],
+    "Mitral Annular Calcification": [
+      "Blaga kalcifikacija mitralnog anulusa.",
+      "Blaga do umjerena kalcifikacija mitralnog anulusa.",
+      "Umjerena kalcifikacija mitralnog anulusa.",
+      "Umjerena do teška kalcifikacija mitralnog anulusa.",
+      "Teška kalcifikacija mitralnog anulusa."
+    ],
+    "Prolapse": [
+      "Blagi prolaps mitralnog zaliska koji zahvata prednji listić.",
+      "Blagi do umjereni prolaps mitralnog zaliska koji zahvata prednji listić.",
+      "Umjereni prolaps mitralnog zaliska koji zahvata prednji listić.",
+      "Teški prolaps mitralnog zaliska koji zahvata prednji listić.",
+      "Blagi prolaps mitralnog zaliska koji zahvata stražnji listić.",
+      "Blagi do umjereni prolaps mitralnog zaliska koji zahvata stražnji listić.",
+      "Umjereni prolaps mitralnog zaliska koji zahvata stražnji listić.",
+      "Teški prolaps mitralnog zaliska koji zahvata stražnji listić.",
+      "Prisutan je blagi bilistićni prolaps mitralnog zaliska.",
+      "Prisutan je umjereni bilistićni prolaps mitralnog zaliska, pretežno zahvata prednji listić.",
+      "Prisutan je umjereni bilistićni prolaps mitralnog zaliska, pretežno zahvata stražnji listić.",
+      "Prisutan je umjereni simetrični bilistićni prolaps mitralnog zaliska.",
+      "Prisutan je teški bilistićni prolaps mitralnog zaliska, pretežno zahvata prednji listić.",
+      "Prisutan je teški bilistićni prolaps mitralnog zaliska, pretežno zahvata stražnji listić.",
+      "Prisutan je teški simetrični bilistićni prolaps mitralnog zaliska.",
+      "Nema dokaza prolapsa mitralnog zaliska.",
+      "Postoje dokazi sistoličkog uvijanja listića mitralnog zaliska, bez dijagnostičkih kriterija za prolaps."
+    ],
+    "Flail": [
+      "Flail prednjeg mitralnog listića, uz direktne dokaze rupture korda.",
+      "Flail stražnjeg mitralnog listića, uz direktne dokaze rupture korda."
+    ],
+    "Restriction": [
+      "Ograničena koaptacija stražnjeg mitralnog listića.",
+      "Ograničena koaptacija prednjeg mitralnog listića.",
+      "Ograničena koaptacija prednjeg i stražnjeg mitralnog listića."
+    ],
+    "Stenosis (Evidence based)": [
+      "Normalna morfologija i funkcija mitralnog zaliska bez stenoze (normalna varijanta).",
+      "Blaga nerumatska mitralna stenoza",
+      "Blaga mitralna stenoza.",
+      "Blaga do umjerena mitralna stenoza.",
+      "Umjerena mitralna stenoza.",
+      "Umjerena do teška mitralna stenoza.",
+      "Umjerena nerumatska mitralna stenoza.",
+      "Teška mitralna stenoza.",
+      "Nema mitralne stenoze",
+      "Nema dokaza mitralne stenoze."
+    ],
+    "Mitral Prosthesis/Repair Type": [
+      "U mitralnoj poziciji je prisutan mehanički protezni zalistak tipa kugla‑u‑kavezu.",
+      "U mitralnoj poziciji je prisutan mehanički protezni zalistak s dvodisknim tilting mehanizmom.",
+      "U mitralnoj poziciji je prisutan mehanički protezni zalistak s jednodisknim tilting mehanizmom.",
+      "U mitralnoj poziciji je prisutan bioprotezni zalistak.",
+      "Bioprotezni zalistak (in valve) je prisutan u mitralnoj poziciji",
+      "Bioprotezni zalistak u mitralnoj poziciji",
+      "Listići mitralnog zaliska su status post popravak. Prisutan je mitralni anuloplastični prsten.",
+      "Prisutan je mitralni anuloplastični prsten.",
+      "Jedan MitraClip je viđen na prednjem i stražnjem listiću mitralnog zaliska.",
+      "Dva MitraClipa su viđena na prednjem i stražnjem listiću mitralnog zaliska.",
+      "SADA SU PRISUTNA DVA MITRACLIPA NA PREDNJIM I STRAŽNJIM LISTIĆIMA MITRALNOG ZALISKA.",
+      "Veličina proteze mitralnog zaliska je <numerical> mm.",
+      "U mitralnoj poziciji je prisutan mehanički protezni zalistak.",
+      "Tri MitraClipa su viđena na prednjem i stražnjem listiću mitralnog zaliska.",
+      "Četiri MitraClipa su viđena na prednjem i stražnjem listiću mitralnog zaliska"
+    ],
+    "MV Prosthesis Well Seated": [
+      "Mitralna proteza djeluje dobro sjedi.",
+      "Prisutan je blagi njihajući pokret mitralne proteze.",
+      "Prisutan je umjereni njihajući pokret mitralne proteze.",
+      "Prisutan je teški njihajući pokret mitralne proteze."
+    ],
+    "Prosthesis leaflet motion": [
+      "Mitralna proteza pokazuje normalnu pokretljivost listića.",
+      "Pokretljivost listića mitralne proteze djeluje blago ograničena.",
+      "Pokretljivost listića mitralne proteze djeluje umjereno ograničena.",
+      "Pokretljivost listića mitralne proteze djeluje teško ograničena."
+    ],
+    "Mitral paravalvular Regurgitation": [
+      "Nema dokaza paravalvularne mitralne regurgitacije.",
+      "Prisutan je blagi paravalvularni mitralni regurgitat.",
+      "Prisutan je blagi do umjereni paravalvularni mitralni regurgitat.",
+      "Prisutan je umjereni paravalvularni mitralni regurgitat.",
+      "Prisutan je umjeren do težak paravalvularni mitralni regurgitat.",
+      "Prisutan je teški paravalvularni mitralni regurgitat.",
+      "Paravalvularna mitralna regurgitacija se ne može isključiti; razmotriti TEE za dalju procjenu."
+    ],
+    "Mitral Prosthesis gradient": [
+      "Mitralna proteza pokazuje normalan transvalvularni gradijent za tip i veličinu zaliska.",
+      "Mitralna proteza pokazuje blago povišen transvalvularni gradijent za tip i veličinu zaliska. Ovo sugerira blagu proteznu mitralnu stenozu.",
+      "Mitralna proteza pokazuje umjereno povišen transvalvularni gradijent za tip i veličinu zaliska. Ovo sugerira umjerenu proteznu mitralnu stenozu.",
+      "Mitralna proteza pokazuje teško povišen transvalvularni gradijent za tip i veličinu zaliska. Ovo sugerira tešku proteznu mitralnu stenozu."
+    ],
+    "Mitral Vegetation": [
+      "Nema dokaza vegetacije.",
+      "Nema dokaza vegetacije mitralnog zaliska.",
+      "Postoje dokazi vegetacije pripojene prednjem listiću mitralnog zaliska.",
+      "Postoje dokazi vegetacije pripojene stražnjem listiću mitralnog zaliska.",
+      "Postoje dokazi vegetacija pripojenih prednjem i stražnjem listiću mitralnog zaliska.",
+      "Postoje dokazi vegetacije na proteznom mitralnom zalisku.",
+      "Vegetacija na mitralnom zalisku se ne može isključiti; razmotriti TEE za dalju procjenu."
+    ],
+    "Mitral Regurgitation": [
+      "Nije viđena mitralna regurgitacija.",
+      "Prisutan je trivijalan do blagi mitralni regurgitat",
+      "Prisutan je trivijalan mitralni regurgitat.",
+      "Prisutan je trivijalan‑blagi mitralni regurgitat",
+      "Prisutan je blagi mitralni regurgitat.",
+      "Prisutan je blagi mitralni regurgitat.",
+      "Prisutan je blagi do umjereni mitralni regurgitat.",
+      "Prisutan je najmanje umjereni mitralni regurgitat.",
+      "Prisutan je umjereni mitralni regurgitat.",
+      "Prisutan je umjeren do težak mitralni regurgitat.",
+      "Prisutan je teški mitralni regurgitat.",
+      "Doppler nalazi sugeriraju tešku mitralnu regurgitaciju, međutim normalna veličina lijeve komore nije u skladu s hroničnom teškom mitralnom regurgitacijom i volumskim preopterećenjem LV.",
+      "Prisutan je vrlo teški mitralni regurgitat."
+    ],
+    "Mitral Regurgitation Structural": [
+      "Izražen flail listića mitralnog zaliska.",
+      "Nalazi u skladu s rupturom papilarnog mišića.",
+      "Prisutan je funkcionalni mitralni regurgitat.",
+      "Prisutan je degenerativni mitralni regurgitat."
+    ],
+    "Jet flow": [
+      "Mlaz mitralne regurgitacije je centralan.",
+      "Mlaz mitralne regurgitacije je ekscentričan i usmjeren posteriorno.",
+      "Mlaz mitralne regurgitacije je ekscentričan i usmjeren anteriorno.",
+      "Mlaz mitralne regurgitacije je ekscentričan i širi se duž stijenke lijeve pretkomore.",
+      "Vena contracta mitralne regurgitacije veća je od 7 mm, što ukazuje na tešku mitralnu regurgitaciju.",
+      "PISA‑izvedena efektivna regurgitantna orificijalna površina je veća od 0.4 cm2, što ukazuje na tešku mitralnu regurgitaciju.",
+      "Postoje Doppler dokazi obrnute sistoličke struje u plućnim venama, što ukazuje na tešku mitralnu regurgitaciju.",
+      "Mlaz mitralne regurgitacije ispunjava više od 40% lijeve pretkomore, što ukazuje na tešku mitralnu regurgitaciju.",
+      "Zabilježena je respiratorna varijacija mitralnog priliva."
+    ],
+    "=The": [
+      "Površina mitralnog zaliska po jednadžbi kontinuiteta iznosi <numerical> cm2.",
+      "Površina mitralnog zaliska po poluvremenu pritiska iznosi <numerical> cm2."
+    ],
+    "gradient": [
+      "Vršni transmitralni gradijent je <numerical> mmHg",
+      "Srednji transmitralni gradijent je <numerical> mmHg"
+    ],
+    "motion": [
+      "Prisutan je blagi sistolički anteriorni pokret mitralnog zaliska.",
+      "Prisutan je blagi sistolički pokret mitralnog zaliska",
+      "Prisutan je umjereni sistolički anteriorni pokret mitralnog zaliska.",
+      "Prisutan je teški sistolički anteriorni pokret mitralnog zaliska"
+    ]
+  },
+  "Aortic Valve": {
+    "AorVel": [
+      "Vršna transaortna brzina je <numerical> cm/s"
+    ],
+    "AorNum": [
+      "Vršni transaortni gradijent je <numerical> mmHg",
+      "Srednji transaortni gradijent je <numerical> mmHg"
+    ],
+    "Aortic Valve:": [
+      "Normalan izgled i funkcija aortnog zaliska.",
+      "Nema značajne aortne stenoze ni insuficijencije.",
+      "Nema aortne stenoze.",
+      "Nema aortne stenoze ni insuficijencije",
+      "Nema značajne aortne stenoze.",
+      "Aortni zalistak nije dobro vizualiziran.",
+      "Aortni zalistak se ne otvara",
+      "Prisutan je masa na nivou aortnog zaliska"
+    ],
+    "AoV Morphology": [
+      "Normalna morfologija i funkcija aortnog zaliska bez stenoze ili regurgitacije.",
+      "Normalna funkcija aortnog zaliska",
+      "Normalna morfologija aortnog zaliska",
+      "Normalna morfologija i funkcija aortnog zaliska",
+      "Trikuspidni aortni zalistak.",
+      "Nalazi su u skladu s mogućim bikuspidnim aortnim zaliskom.",
+      "Prisutan je bikuspidni aortni zalistak.",
+      "Aortni zalistak djeluje kvadrikuspidan."
+    ],
+    "Thickened": [
+      "Aortne kuspise djeluju blago zadebljane.",
+      "Aortne kuspise djeluju blago‑umjereno zadebljane",
+      "Aortne kuspise djeluju umjereno zadebljane.",
+      "Aortne kuspise djeluju teško zadebljane."
+    ],
+    "Calcified": [
+      "Aortne kuspise djeluju blago kalcificirane.",
+      "Aortne kuspise djeluju blago‑umjereno kalcificirane.",
+      "Aortne kuspise djeluju umjereno kalcificirane.",
+      "Aortne kuspise djeluju teško kalcificirane."
+    ],
+    "Restricted": [
+      "Aortne kuspise djeluju blago ograničene.",
+      "Aortne kuspise djeluju umjereno ograničene.",
+      "Aortne kuspise djeluju teško ograničene.",
+      "Viđena je skleroza aortnog zaliska.",
+      "Skleroza aortnog zaliska bez stenoze"
+    ],
+    "Stenosis (Evidence based)": [
+      "Nema dokaza aortne stenoze.",
+      "Blaga aortna stenoza.",
+      "Blaga do umjerena aortna stenoza.",
+      "Umjerena aortna stenoza.",
+      "Umjerena do teška aortna stenoza.",
+      "Teška aortna stenoza.",
+      "Skleroza bez stenoze"
+    ],
+    "Aortic Prosthesis Type": [
+      "U aortnoj poziciji je prisutan mehanički protezni zalistak tipa kugla‑u‑kavezu.",
+      "U aortnoj poziciji je prisutan mehanički protezni zalistak s dvodisknim tilting mehanizmom.",
+      "U aortnoj poziciji je prisutan mehanički protezni zalistak s jednodisknim tilting mehanizmom.",
+      "U aortnoj poziciji je prisutan mehanički protezni zalistak.",
+      "Mehanički protezni zalistak u aortnoj poziciji",
+      "U aortnoj poziciji je prisutan homograft.",
+      "U aortnoj poziciji je prisutan bioprotezni zalistak.",
+      "Bioprotezni zalistak u aortnoj poziciji.",
+      "U aortnoj poziciji je prisutan bioprotezni stent‑zalisak.",
+      "U aortnoj poziciji je prisutan autograft aortni zalistak iz Ross procedure.",
+      "Vidi se Impella kateter, a ulazno područje je 3.6 cm od aortnog zaliska i ne interferira sa susjednim strukturama, u skladu s pravilnim položajem Impelle."
+    ],
+    "Aortic Prosthesis Well Seated": [
+      "Aortna proteza djeluje dobro sjedi.",
+      "Prisutan je blagi njihajući pokret aortne proteze.",
+      "Prisutan je umjereni njihajući pokret aortne proteze.",
+      "Prisutan je teški njihajući pokret aortne proteze."
+    ],
+    "Aortic Prosthesis Leaflet Motion": [
+      "Aortna proteza pokazuje normalnu pokretljivost listića.",
+      "Pokretljivost listića aortne proteze djeluje blago ograničena.",
+      "Pokretljivost listića aortne proteze djeluje umjereno ograničena.",
+      "Pokretljivost listića aortne proteze djeluje teško ograničena."
+    ],
+    "Aortic paravalvular Regurgitation": [
+      "Nije viđena transvalvularna aortna regurgitacija.",
+      "Nema dokaza paravalvularne aortne regurgitacije.",
+      "Prisutan je trivijalan paravalvularni aortni regurgitat.",
+      "Prisutan je blagi paravalvularni aortni regurgitat.",
+      "Prisutan je blagi do umjereni paravalvularni aortni regurgitat.",
+      "Prisutan je umjereni paravalvularni aortni regurgitat.",
+      "Prisutan je umjereni paravalvularni aortni regurgitat.",
+      "Prisutan je teški paravalvularni aortni regurgitat.",
+      "Prisutan je trag paravalvularnog aortnog regurgitata."
+    ],
+    "Aortic prosthesis gradient": [
+      "Aortna proteza pokazuje normalan transvalvularni gradijent za tip i veličinu zaliska.",
+      "Aortna proteza pokazuje blago povišen transvalvularni gradijent za tip i veličinu zaliska. Ovo sugerira blagu proteznu aortnu stenozu.",
+      "Aortna proteza pokazuje umjereno povišen transvalvularni gradijent za tip i veličinu zaliska. Ovo sugerira umjerenu proteznu aortnu stenozu.",
+      "Aortna proteza pokazuje teško povišen transvalvularni gradijent za tip i veličinu zaliska. Ovo sugerira tešku proteznu aortnu stenozu."
+    ],
+    "Aortic vegetation": [
+      "Nema dokaza vegetacije.",
+      "Nema dokaza vegetacije na aortnom zalisku.",
+      "Mobilna eho‑denzitetna lezija na desnoj koronarnoj kuspisi aortnog zaliska u skladu s vegetacijom.",
+      "Mobilna eho‑denzitetna lezija na nekoronarnoj kuspisi aortnog zaliska u skladu s vegetacijom.",
+      "Mobilna eho‑denzitetna lezija na lijevoj koronarnoj kuspisi aortnog zaliska u skladu s vegetacijom.",
+      "Mobilne eho‑denzitetne lezije na više kuspisa aortnog zaliska u skladu s vegetacijama.",
+      "Postoje dokazi vegetacije na proteznom aortnom zalisku.",
+      "Vegetacija na aortnom zalisku se ne može isključiti; razmotriti TEE za dalju procjenu."
+    ],
+    "=The": [
+      "Površina aortnog zaliska po jednadžbi kontinuiteta (koristeći Vmax) iznosi <numerical> cm2.",
+      "Površina aortnog zaliska po jednadžbi kontinuiteta (koristeći VTI) iznosi <numerical> cm2"
+    ],
+    "Aortic Valve Gradient Qualifiers": [
+      "Transaortni gradijent može biti podcijenjen zbog niskog udarnog volumena sekundarno lošoj sistoličkoj funkciji lijeve komore.",
+      "Transaortni gradijent može biti podcijenjen zbog suboptimalnog Doppler ugla.",
+      "Transaortni gradijent može biti podcijenjen zbog niskog udarnog volumena sekundarno maloj šupljini lijeve komore.",
+      "Razmotriti upotrebu LV kontrasta radi bolje procjene težine aortne stenoze.",
+      "Razmotriti upotrebu dobutamina i/ili LV kontrasta radi bolje procjene težine aortne stenoze."
+    ],
+    "Regurgitation": [
+      "Nije viđena aortna regurgitacija.",
+      "Trag aortne regurgitacije.",
+      "Trag do blaga aortna regurgitacija.",
+      "Blagi aortni regurgitat.",
+      "Blaga do umjerena aortna regurgitacija.",
+      "Blaga do umjerena regurgitacija aortnog zaliska.",
+      "Blaga do umjerena do teška aortna regurgitacija.",
+      "Umjerena aortna regurgitacija.",
+      "Umjerena do teška aortna regurgitacija.",
+      "Teški aortni regurgitat.",
+      "Vrlo teška aortna regurgitacija."
+    ],
+    "AR Jet flow": [
+      "Mlaz aortne regurgitacije je centralan.",
+      "Mlaz aortne regurgitacije je ekscentričan i usmjeren anteriorno.",
+      "Mlaz aortne regurgitacije je ekscentričan i usmjeren posteriorno."
+    ],
+    "Descending Aortic Flow Reversal": [
+      "Minimalni obrnuti tok u silaznoj aorti, što sugerira da aortna regurgitacija nije teška.",
+      "Umjereni obrnuti tok u silaznoj aorti, što sugerira umjerenu težinu aortne regurgitacije.",
+      "Holodijastolni obrnuti tok u silaznoj aorti, što sugerira prisutnu tešku aortnu regurgitaciju."
+    ],
+    "Mechanical Assist Devices": [
+      "Aortni zalistak ostaje zatvoren ili se povremeno otvara, u skladu s normalnom LVAD funkcijom",
+      "Aortni zalistak se ne otvara ili se otvara povremeno, u skladu s normalnom LVAD funkcijom.",
+      "Vidi se Impella kateter, a ulazno područje je <numerical> od aortnog zaliska i ne interferira sa susjednim strukturama, u skladu s pravilnim položajem Impelle. Iznad aortnog zaliska vidi se gust turbulentan kolor tok, u skladu s pravilnim položajem izlaznog područja.",
+      "Impella kateter se vidi preko aortnog zaliska i proteže se predaleko u lijevu komoru; preporučuje se repozicioniranje",
+      "Vidi se Impella kateter",
+      "Vidi se Impella kateter, ali ulazno područje izgleda da je u aorti ili blizu aortnog zaliska; preporučuje se repozicioniranje.",
+      "Impella kateter se vidi preko aortnog zaliska i preblizu je ili upleten u papilarni mišić i/ili subannularne strukture oko mitralnog zaliska; preporučuje se repozicioniranje."
+    ]
+  },
+  "Tricuspid Valve": {
+    "Tricuspid Valve:": [
+      "Normalna funkcija trikuspidalnog zaliska",
+      "Normalna funkcija trikuspidalnog zaliska (normalna varijanta).",
+      "Normalan izgled trikuspidalnog zaliska.",
+      "Normalna morfologija trikuspidalnog zaliska.",
+      "Normalan sistolički pritisak u desnoj komori.",
+      "Normalna morfologija i funkcija trikuspidalnog zaliska bez značajne stenoze ili regurgitacije.",
+      "Normalna morfologija i funkcija trikuspidalnog zaliska bez stenoze (normalna varijanta).",
+      "Trikuspidalni zalistak nije dobro vizualiziran."
+    ],
+    "=Est": [
+      "Procijenjeni RV/RA gradijent pritiska je <numerical> mmHg."
+    ],
+    "=Estimated": [
+      "Procijenjeni vršni RVSP je <numerical>+CVP mmHg.",
+      "Procijenjeni vršni RVSP je <numerical> +CVP mmHg.",
+      "Procijenjeni vršni RVSP je <numerical> + CVP mmHg.",
+      "Procijenjeni vršni RVSP je <numerical>+ CVP mmHg.",
+      "Procijenjeni vršni RVSP je <numerical> mmHg.",
+      "Procijenjeni vršni RVSP je <numerical>"
+    ],
+    "Thickening": [
+      "Trikuspidalni zalistak djeluje blago zadebljan.",
+      "Trikuspidalni zalistak djeluje umjereno zadebljan.",
+      "Trikuspidalni zalistak djeluje teško zadebljan.",
+      "Prisutno je teško zadebljanje, skraćenje i retrakcija trikuspidalnih listića u skladu s karcinoidnom bolešću srca.",
+      "Prisutan je trikuspidalni anuloplastični prsten."
+    ],
+    "TV Prosthesis": [
+      "Bioprotezni zalistak je u trikuspidalnoj poziciji. Zalistak dobro sjedi s normalnom pokretljivošću listića.",
+      "Bioprotezni zalistak u trikuspidalnoj poziciji",
+      "Bioprotezni zalistak u trikuspidalnoj poziciji. Listići djeluju zadebljani sa smanjenom pokretljivošću. Transtrikuspidalni gradijent je povišen, u skladu sa stenoznim zaliskom.",
+      "Jedan MitraClip viđen u trikuspidalnoj poziciji.",
+      "Dva MitraClipa viđena u trikuspidalnoj poziciji."
+    ],
+    "Regurgitation": [
+      "Nije viđena trikuspidalna regurgitacija.",
+      "Prisutan je trag/blagi trikuspidalni regurgitat",
+      "Prisutan je trivijalan trikuspidalni regurgitat.",
+      "Prisutan je trivijalan‑blagi trikuspidalni regurgitat.",
+      "Prisutan je trivijalan do blagi trikuspidalni regurgitat.",
+      "Prisutan je blagi trikuspidalni regurgitat.",
+      "Prisutan je blagi do umjereni trikuspidalni regurgitat.",
+      "Prisutan je umjereni trikuspidalni regurgitat.",
+      "Prisutan je umjeren do težak trikuspidalni regurgitat.",
+      "Prisutan je teški trikuspidalni regurgitat.",
+      "Prisutan je najmanje umjereni trikuspidalni regurgitat",
+      "Vrlo teški trikuspidalni regurgitat."
+    ],
+    "Prolapse": [
+      "Blagi prolaps trikuspidalnog zaliska koji zahvata prednji listić.",
+      "Blagi do umjereni prolaps trikuspidalnog zaliska koji zahvata prednji listić.",
+      "Umjereni prolaps trikuspidalnog zaliska koji zahvata prednji listić.",
+      "Teški prolaps trikuspidalnog zaliska koji zahvata prednji listić.",
+      "Blagi prolaps trikuspidalnog zaliska koji zahvata stražnji listić",
+      "Blagi do umjereni prolaps trikuspidalnog zaliska koji zahvata stražnji listić",
+      "Umjereni prolaps trikuspidalnog zaliska koji zahvata stražnji listić",
+      "Teški prolaps trikuspidalnog zaliska koji zahvata stražnji listić",
+      "Blagi prolaps trikuspidalnog zaliska koji zahvata septalni listić",
+      "Blagi do umjereni prolaps trikuspidalnog zaliska koji zahvata septalni listić",
+      "Umjereni prolaps trikuspidalnog zaliska koji zahvata septalni listić",
+      "Teški prolaps trikuspidalnog zaliska koji zahvata septalni listić."
+    ],
+    "Flail": [
+      "Flail prednjeg trikuspidalnog listića, uz direktne dokaze rupture korda.",
+      "Flail stražnjeg trikuspidalnog listića, uz direktne dokaze rupture korda."
+    ],
+    "Tricuspid Vegetation": [
+      "Nema dokaza vegetacije na trikuspidalnom zalisku.",
+      "Nema dokaza vegetacije.",
+      "Mobilna eho‑denzitetna lezija na listiću trikuspidalnog zaliska u skladu s vegetacijom.",
+      "Mobilne eho‑denzitetne lezije na listićima trikuspidalnog zaliska u skladu s vegetacijom.",
+      "Vegetacija na listiću trikuspidalnog zaliska se ne može isključiti; razmotriti TEE za dalju procjenu."
+    ],
+    "Stenosis(Evidence based)": [
+      "Nema trikuspidalne stenoze",
+      "Prisutan je blagi do umjereni trikuspidalni stenozni zalistak. Srednji gradijent je <numerical> mmHg pri bpm.",
+      "Prisutan je teški trikuspidalni stenozni zalistak. Srednji gradijent je <numerical> mmHg pri bpm.",
+      "TEŠKA STENOZA TRIKUSPIDALNOG ZALISKA",
+      ". UMJERENA STENOZA TRIKUSPIDALNOG ZALISKA",
+      "TEŠKA TRIKUSPIDALNA STENOZA",
+      ". UMJERENA TRIKUSPIDALNA STENOZA"
+    ]
+  },
+  "Pulmonic Valve": {
+    "Pulmonic Valve:": [
+      "Normalna funkcija pulmonalnog zaliska s tragom fiziološke regurgitacije.",
+      "Normalna morfologija i funkcija pulmonalnog zaliska bez značajne stenoze ili regurgitacije.",
+      "Normalna morfologija pulmonalnog zaliska",
+      "Normalna funkcija pulmonalnog zaliska",
+      "Normalan izgled pulmonalnog zaliska.",
+      "Pulmonalni zalistak nije dobro vizualiziran.",
+      "Prisajno teško zadebljanje kuspisa pulmonalnog zaliska u skladu s karcinoidnom bolešću srca.",
+      "Na pulmonalnom zalisku vidi se vegetacija."
+    ],
+    "PV Prosthesis": [
+      "Bioprotezni zalistak je u pulmonalnoj poziciji. Zalistak djeluje dobro sjedi s normalnom pokretljivošću listića. Transpulmonalni gradijent je normalan.",
+      "Bioprotezni zalistak u pulmonalnoj poziciji",
+      "Bioprotezni stent‑zalisak je u pulmonalnoj poziciji. Zalistak djeluje dobro sjedi s normalnom pokretljivošću listića. Transpulmonalni gradijent je normalan.",
+      "Bioprotezni zalistak je u pulmonalnoj poziciji. Listići djeluju zadebljani sa smanjenom pokretljivošću. Transpulmonalni gradijent je povišen, što ukazuje na proteznu stenozu pulmonalnog zaliska."
+    ],
+    "Stenosis (Evidence based)": [
+      "Nema pulmonalne stenoze.",
+      "Blaga stenoza pulmonalnog zaliska.",
+      "Blaga do umjerena stenoza pulmonalnog zaliska.",
+      "Umjerena stenoza pulmonalnog zaliska.",
+      "Umjerena do teška stenoza pulmonalnog zaliska.",
+      "Teška stenoza pulmonalnog zaliska."
+    ],
+    "Regurgitation": [
+      "Nema dokaza pulmonalne regurgitacije.",
+      "Prisutan je trivijalan do blagi pulmonalni regurgitat.",
+      "Prisutan je trivijalan, fiziološki pulmonalni regurgitat (normalna varijanta).",
+      "Prisutan je trivijalan pulmonalni regurgitat.",
+      "Prisutan je trivijalan, fiziološki pulmonalni regurgitat.",
+      "Prisutan je blagi pulmonalni regurgitat.",
+      "Prisutan je blagi do umjereni pulmonalni regurgitat.",
+      "Prisutan je umjereni pulmonalni regurgitat.",
+      "Prisutan je umjeren do težak pulmonalni regurgitat.",
+      "Prisutan je teški pulmonalni regurgitat."
+    ],
+    "Velocity": [
+      "Vrijeme do vršne brzine u izlaznom traktu desne komore > 90 ms u skladu je s normalnim pritiskom u plućnoj arteriji.",
+      "Vrijeme do vršne brzine u izlaznom traktu desne komore < 90 ms u skladu je s povišenim pritiskom u plućnoj arteriji.",
+      "Vrijeme do vršne brzine u izlaznom traktu desne komore < 90 ms u skladu je s mogućim povišenim pritiskom u plućnoj arteriji."
+    ]
+  },
+  "Pericardium": {
+    "Pericardium:": [
+      "Normalan perikard bez perikardnog izljeva.",
+      "Normalan perikard s tragom perikardnog izljeva",
+      "Nije dobro vizualizirano."
+    ],
+    "Pericardial Effusion": [
+      "Trivijalan perikardni izljev.",
+      "Mali perikardni izljev.",
+      "Mali do umjereni perikardni izljev.",
+      "Umjereni perikardni izljev.",
+      "Umjeren do veliki perikardni izljev.",
+      "Veliki perikardni izljev.",
+      "Perikardni izljev je anteriorno u odnosu na srce.",
+      "Perikardni izljev je posteriorno u odnosu na srce.",
+      "Perikardni izljev je lateralno u odnosu na srce.",
+      "Perikardni izljev je cirkumferentan oko srca.",
+      "Perikardni izljev je ehonegativnog izgleda.",
+      "Perikardni izljev ima izgled s fibrinskim tračcima.",
+      "Perikardni izljev ima izgled perikardijalnog hematoma ili koaguluma.",
+      "Perikardni izljev je lokulirani perikardni izljev.",
+      "Perikardni izljev je cirkumferentan oko srca i ima izgled s fibrinskim tračcima.",
+      "Perikardni izljev je anteriorno i posteriorno u odnosu na srce.",
+      "Perikardni izljev je posteriorno i lateralno u odnosu na srce.",
+      "Perikardni izljev je anteriorno u odnosu na srce i lokulirani je perikardni izljev.",
+      "Perikardni izljev je anteriorno u odnosu na srce.",
+      "Perikardni izljev je posteriorno u odnosu na srce.",
+      "Perikardni izljev je anterioran",
+      "Perikardni izljev je posterioran",
+      "Perikardni izljev",
+      "Veliki organizirani pleuro‑perikardijalni izljev."
+    ],
+    "Tamponade": [
+      "Nema ehokardiografskih dokaza za srčanu tamponadu.",
+      "Ne može se isključiti srčana tamponada.",
+      "Postoje dokazi rane tamponade.",
+      "Prisutan je srčani tamponad."
+    ],
+    "Tamponade Evidence:": [
+      "Rani dijastolički kolaps desne komore.",
+      "Kasna dijastolička inverzija desne pretkomore.",
+      "Značajna respiracijska varijacija mitralnog priliva.",
+      "Značajna respiracijska varijacija trikuspidalnog priliva.",
+      "IVC je dilatirana sa smanjenom respiracijskom varijacijom u skladu s povišenim pritiskom u desnoj pretkomori.",
+      "Ograničeno dijastoličko širenje RV.",
+      "Ehogeni materijal viđen u perikardijalnom prostoru.",
+      "Zadebljan perikard.",
+      "Nalazi u skladu s fiziologijom perikardijalne konstrikcije."
+    ],
+    "sth": [
+      "Prisutan je anteriorni ehonegativan prostor u skladu s epikardijalnim masnim jastučićem."
+    ],
+    "Pleural Effusion": [
+      "Nije uočen pleuralni izljev.",
+      "Viđen je desni pleuralni izljev.",
+      "Viđen je lijevi pleuralni izljev.",
+      "Viđeni su obostrani pleuralni izljevi.",
+      "Prisutan je ascites."
+    ]
+  },
+  "Aorta": {
+    "Aorta:": [
+      "Normalan korijen aorte.",
+      "Nije dobro vizualizirano."
+    ],
+    "=Aortic": [
+      "Aortni luk <numerical> cm."
+    ],
+    "Aortic Root Size (Sinus of Valsalva)(Evidence based)": [
+      "Korijen aorte je normalne veličine.",
+      "Korijen aorte je na gornjoj granici normale prema 2D mjerenju, ali vizuelno djeluje blago dilatiran.",
+      "Prisustvuje blaga dilatacija korijena aorte.",
+      "Prisustvuje blaga do umjerena dilatacija korijena aorte.",
+      "Prisustvuje umjerena dilatacija korijena aorte.",
+      "Prisustvuje umjerena do teška dilatacija korijena aorte.",
+      "Prisustvuje teška dilatacija korijena aorte.",
+      "Promjer aortnog anulusa <numerical> cm"
+    ],
+    "=Sinus": [
+      "Sinus Valsalve: <numerical> cm."
+    ],
+    "Sinotubular junction": [
+      "Sinotubularni spoj je normalne veličine.",
+      "Prisustvuje blaga dilatacija sinotubularnog spoja.",
+      "Prisustvuje blaga do umjerena dilatacija sinotubularnog spoja.",
+      "Prisustvuje umjerena dilatacija sinotubularnog spoja.",
+      "Prisustvuje umjerena do teška dilatacija sinotubularnog spoja.",
+      "Prisustvuje teška dilatacija sinotubularnog spoja."
+    ],
+    "=Sinotubular": [
+      "Sinotubularni spoj: <numerical> cm."
+    ],
+    "Ascending Aorta": [
+      "Uzlazna aorta je normalne veličine.",
+      "Prisustvuje blaga dilatacija uzlazne aorte.",
+      "Prisustvuje blaga do umjerena dilatacija uzlazne aorte.",
+      "Prisustvuje umjerena dilatacija uzlazne aorte.",
+      "Prisustvuje umjerena do teška dilatacija uzlazne aorte.",
+      "Prisustvuje teška dilatacija uzlazne aorte."
+    ],
+    "=Ascending": [
+      "Uzlazna aorta <numerical> cm."
+    ],
+    "Aortic arch": [
+      "Aortni luk normalne veličine.",
+      "Dilatiran aortni luk."
+    ],
+    "Aortic graft": [
+      "Prisutan je aortni graft u korijenu aorte.",
+      "Prisutan je aortni graft u uzlaznoj aorti.",
+      "Prisutan je aortni graft u korijenu i uzlaznoj aorti."
+    ],
+    "Descending Aorta": [
+      "Silazna aorta normalne veličine.",
+      "Dilatirana silazna aorta."
+    ],
+    "=Descending": [
+      "Silazna aorta <numerical> cm."
+    ],
+    "Fibrocalcific change": [
+      "Blage fibro‑kalcifične promjene korijena aorte u skladu s aterosklerozom.",
+      "Umjerene fibro‑kalcifične promjene korijena aorte u skladu s aterosklerozom.",
+      "Teške fibro‑kalcifične promjene korijena aorte u skladu s aterosklerozom.",
+      "Kalcifikacija korijena aorte."
+    ],
+    "Atheroma": [
+      "Prisutan je blagi (<2mm) aterom torakalne aorte.",
+      "Prisutan je blagi (<2mm) aterom korijena aorte ili zadebljanje na mjestu hirurške anastomoze.",
+      "Prisutan je umjereni (2-4 mm) aterom torakalne aorte.",
+      "Prisutan je teški (>4mm) aterom torakalne aorte."
+    ],
+    "=Atheroma": [
+      "Debljina ateroma <numerical> mm."
+    ],
+    "Hematoma": [
+      "Prisutan je lažni lumen u aorti koji sadrži tromb.",
+      "Prisutan je lažni lumen u aorti koji komprimira gornju šuplju venu.",
+      "Prisutan je lažni lumen u aorti koji komprimira pravi aortni lumen.",
+      "Prisutan je lažni lumen u aorti koji sadrži tromb i komprimira pravi aortni lumen.",
+      "Prisutan je intramuralni hematom koji se proteže od korijena aorte do uzlazne aorte.",
+      "Prisutan je intramuralni hematom koji se proteže od korijena aorte do silazne aorte.",
+      "Prisutan je intramuralni hematom koji se proteže od uzlazne aorte do aortnog luka.",
+      "Prisutan je intramuralni hematom koji se proteže od uzlazne aorte do silazne aorte.",
+      "Prisutan je intramuralni hematom ograničen na silaznu aortu.",
+      "Prisutan je intramuralni hematom s ekstenzijom."
+    ],
+    "=Hematoma": [
+      "Veličina hematoma <numerical> cm."
+    ],
+    "Atherosclerotic Ulcer": [
+      "Prisutan je glatki penetrirajući aterosklerotski ulkus u silaznoj aorti.",
+      "Prisutan je neregularno oblikovani penetrirajući aterosklerotski ulkus u silaznoj aorti."
+    ],
+    "=Lesion": [
+      "Dubina lezije je <numerical>."
+    ],
+    "AO dissection": [
+      "Disekcija aorte koja se proteže od korijena aorte do aortnog luka.",
+      "Disekcija aorte koja se proteže od korijena aorte do silazne aorte.",
+      "Disekcija aorte koja se proteže od uzlazne aorte do aortnog luka.",
+      "Disekcija aorte koja se proteže od aortnog luka do silazne aorte.",
+      "Disekcija aorte ograničena na silaznu aortu.",
+      "Ne može se isključiti disekcija aorte. Preporučuje se alternativna slikovna metoda aorte."
+    ],
+    "Classification": [
+      "Nalazi su u skladu sa Stanford tip A disekcijom aorte.",
+      "Nalazi su u skladu sa Stanford tip B disekcijom aorte.",
+      "Nalazi su u skladu s DeBakey tip I disekcijom aorte.",
+      "Nalazi su u skladu s DeBakey tip II disekcijom aorte.",
+      "Nalazi su u skladu s DeBakey tip III disekcijom aorte."
+    ]
+  },
+  "IVC": {
+    "IVC size": [
+      "Donja šuplja vena je dilatirana i pokazuje normalan respiratorni kolaps, u skladu s povišenim pritiskom u desnoj pretkomori (8mmHg).",
+      "Donja šuplja vena je dilatirana i ne pokazuje inspiratorni kolaps, u skladu sa značajno povišenim pritiskom u desnoj pretkomori (15mmHg).",
+      "Donja šuplja vena je dilatirana i pokazuje više od 50% kolapsa, u skladu s povišenim pritiskom u desnoj pretkomori (8 mmHg).",
+      "Donja šuplja vena je normalne veličine.",
+      "Donja šuplja vena je dilatirana.",
+      "Donja šuplja vena je normalne veličine i pokazuje normalan respiratorni kolaps, u skladu s normalnim pritiskom u desnoj pretkomori (3 mmHg).",
+      "Donja šuplja vena je normalne veličine i pokazuje normalan respiratorni kolaps, u skladu s normalnim pritiskom u desnoj pretkomori (3 mmHg)",
+      "Donja šuplja vena je normalne veličine ali pokazuje manje od 50% kolapsa, u skladu s povišenim pritiskom u desnoj pretkomori (8mmHg)."
+    ],
+    "diam": [
+      "Promjer IVC je <numerical> mm",
+      "Promjer IVC je <numerical> cm"
+    ],
+    "=The": [
+      "RA pritisak mjeren kateterom uz krevet je <numerical> mmHg.",
+      "RA pritisak nije mogao biti procijenjen jer IVC nije vizualiziran."
+    ],
+    "RA Pressure Estimate": [
+      "RA pritisak nije mogao biti procijenjen jer IVC nije dobro vizualiziran.",
+      "Donja šuplja vena je kolabirana u mirovanju, u skladu s intravaskularnom deplecijom volumena.",
+      "Donja šuplja vena pokazuje normalan respiratorni kolaps, u skladu s normalnim pritiskom u desnoj pretkomori (3 mmHg).",
+      "Donja šuplja vena pokazuje manje od 50% kolapsa, u skladu s povišenim pritiskom u desnoj pretkomori (8 mmHg).",
+      "Donja šuplja vena ne pokazuje inspiratorni kolaps, u skladu sa značajno povišenim pritiskom u desnoj pretkomori (>15 mmHg).",
+      "Donja šuplja vena ne pokazuje inspiratorni kolaps, u skladu sa značajno povišenim pritiskom u desnoj pretkomori (>20 mmHg).",
+      "RA pritisak se ne može procijeniti prema kolapsu IVC jer je pacijent na mehaničkoj ventilaciji.",
+      "Donja šuplja vena je normalne veličine i pokazuje normalan respiratorni kolaps, u skladu s normalnim pritiskom u desnoj pretkomori (3mmHg)"
+    ]
+  },
+  "Pulmonary Artery": {
+    "Pulmonary Artery:": [
+      "Normalna veličina plućne arterije."
+    ],
+    "PA Enlargement": [
+      "Prisutno je blago proširenje plućne arterije.",
+      "Prisutno je blago do umjereno proširenje plućne arterije.",
+      "Prisutno je umjereno proširenje plućne arterije.",
+      "Prisutno je umjereno do teško proširenje plućne arterije.",
+      "Prisutno je teško proširenje plućne arterije.",
+      "Prisutno je teško proširenje (aneurizma) plućne arterije.",
+      "Nije dobro vizualizirano."
+    ],
+    "=Estimated": [
+      "Procijenjeni PA pritisak je <numerical>+CVP mmHg",
+      "Procijenjeni PA pritisak je <numerical> +CVP mmHg",
+      "Procijenjeni PA pritisak je <numerical> + CVP mmHg",
+      "Procijenjeni PA pritisak je <numerical>+ CVP mmHg",
+      "Procijenjeni PA pritisak je <numerical> mmHg.",
+      "Procijenjeni PA pritisak je <numerical>",
+      "Procijenjeni sistolički pritisak u plućnoj arteriji je <numerical> mmHg",
+      "Procijenjeni sistolički pritisak u plućnoj arteriji je <numerical> +CVP mmHg",
+      "Srednji pritisak u plućnoj arteriji procijenjen je na <numerical> mmHg.",
+      "Srednji pritisak u plućnoj arteriji procijenjen je na <numerical>mmHg."
+    ],
+    "Pulmonary Artery Systolic Pressure (Evidence based)": [
+      "Sistolički pritisak u plućnoj arteriji je normalan.",
+      "Sistolički pritisak u plućnoj arteriji je na gornjoj granici normale.",
+      "Sistolički pritisak u plućnoj arteriji u skladu je s blagom plućnom hipertenzijom.",
+      "Sistolički pritisak u plućnoj arteriji u skladu je s umjerenom plućnom hipertenzijom.",
+      "Sistolički pritisak u plućnoj arteriji u skladu je s teškom plućnom hipertenzijom.",
+      "Sistolički pritisak u plućnoj arteriji u skladu je s kritičnom (skoro sistemskom) plućnom hipertenzijom.",
+      "Sistolički pritisak u plućnoj arteriji nije mogao biti određen zbog izostanka Doppler signala trikuspidalne regurgitacije.",
+      "Ponoviti studiju s kontrastom fiziološke otopine radi poboljšanja procjene vršne TR brzine i sistoličkog pritiska u plućnoj arteriji.",
+      "Sistolički pritisak u plućnoj arteriji u skladu je s blagom do umjerenom plućnom hipertenzijom.",
+      "Vrh PASP može biti podcijenjen zbog neadekvatnog omotača TR mlaza."
+    ]
+  },
+  "Pulmonary Veins": {
+    "Pulmonary Veins:": [
+      "Plućne vene su normalnog izgleda, a pulsni Doppler pokazuje pretežno sistolični tok.",
+      "Hemodinamika plućnih vena nije mogla biti procijenjena.",
+      "Teško procjenjivo zbog ranije transplantacije srca."
+    ],
+    "Doppler flow": [
+      "Obrazac plućnog venskog toka je sistoličko‑dijastolički kodominantan.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, što sugerira povišen pritisak u lijevoj pretkomori.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, često viđen kod atrijalnih aritmija.",
+      "Postoje Doppler dokazi sistoličkog obrnutog toka u plućne vene, što sugerira tešku mitralnu regurgitaciju.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, često viđen nakon transplantacije srca.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, često viđen kod fibrilacije pretkomora.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, što sugerira povišen pritisak u lijevoj pretkomori.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, često viđen nakon transplantacije srca.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan, često viđen kod mladih.",
+      "Obrazac plućnog venskog toka je pretežno dijastoličan.",
+      "Doppler ispitivanje plućnih vena pokazuje visoke brzine toka, u skladu sa stenozom plućnih vena.",
+      "A‑val plućne vene u skladu je s povišenim pritiskom u lijevoj pretkomori.",
+      "Vršni A‑val >35 cm/sec kompatibilan je s povišenim pritiskom u lijevoj pretkomori.",
+      "Prisutan je tromb ili masa u XXX plućnoj veni.",
+      "Nije dobro vizualizirano."
+    ]
+  },
+  "Postoperative Findings": {
+    "Postoperative Findings:": [],
+    "gradient": [
+      "Vršni transmitralni gradijent je <numerical> mmHg",
+      "Srednji transmitralni gradijent je <numerical> mmHg"
+    ],
+    "Mitral Valve Repair": [
+      "Vidi se mitralni anuloplastični prsten. Listići mitralnog zaliska djeluju reparirani.",
+      "Prisutan je mitralni anuloplastični prsten.",
+      "Listići mitralnog zaliska su status post Alfieri šav, sa funkcionalnim dvostrukim otvorom mitralnog zaliska."
+    ],
+    "mitral_regurgitation": [
+      "Prisutan je trivijalan do blagi mitralni regurgitat",
+      "Prisutan je blagi rezidualni mitralni regurgitat.",
+      "Prisutan je blagi do umjereni rezidualni mitralni regurgitat.",
+      "Prisutan je umjereni rezidualni mitralni regurgitat.",
+      "Prisutan je umjeren do težak rezidualni mitralni regurgitat.",
+      "Prisutan je teški rezidualni mitralni regurgitat.",
+      "Prisutan je blago‑umjereni rezidualni mitralni regurgitat.",
+      "Prisutan je umjereno‑teški rezidualni mitralni regurgitat.",
+      "Prisutan je rezidualni mitralni regurgitat."
+    ],
+    "MitraClip": [
+      "Prisutan je jedan MitraClip koji spaja segmente A2 i P2 prednjeg i stražnjeg mitralnog listića. Srednji gradijent je mmHg pri bpm.",
+      "Prisuta su dva MitraClipa koja spajaju segmente A2 i P2 prednjeg i stražnjeg mitralnog listića. Srednji gradijent je mmHg pri bpm.",
+      "Tri MitraClipa su viđena na prednjem i stražnjem listiću mitralnog zaliska."
+    ],
+    "Mitral valve replacement": [
+      "Bioprotezni zalistak je u mitralnoj poziciji. Zalistak dobro sjedi s normalnom pokretljivošću listića. Nema valvularne ni perivalvularne regurgitacije.",
+      "Bioprotezni stent‑zalisak u mitralnoj poziciji",
+      "U mitralnoj poziciji je mehanički protezni zalistak s dvodisknim tilting mehanizmom. Zalistak dobro sjedi s normalnim kretanjem diskova. Prisutan je trag fiziološke mitralne regurgitacije. Nema perivalvularne regurgitacije.",
+      "Bioprotezni stent‑zalisak je prisutan u mitralnoj poziciji."
+    ],
+    "Aortic valve replacement": [
+      "Bioprotezni zalistak je u aortnoj poziciji. Zalistak dobro sjedi s normalnom pokretljivošću listića. Nema valvularne ni perivalvularne regurgitacije.",
+      "U aortnoj poziciji je mehanički protezni zalistak s dvodisknim tilting mehanizmom. Zalistak dobro sjedi s normalnom pokretljivošću listića. Nema valvularne ni perivalvularne regurgitacije.",
+      "Status nakon Ross procedure – prisutan je pulmonalni autograft u aortnoj poziciji. Prisutan je blagi rezidualni aortni regurgitat.",
+      "Bioprotezni stent‑zalisak je u aortnoj poziciji. Zalistak dobro sjedi s normalnom pokretljivošću listića. Nema značajne aortne regurgitacije, prisutan je trivijalan perivalvularni regurgitat.",
+      "Bioprotezni stent‑zalisak je prisutan u aortnoj poziciji.",
+      "Bioprotezni stent‑zalisak u aortnoj poziciji."
+    ],
+    "Tricuspid Valve Repair/Replacement": [
+      "Prisutan je trikuspidalni anuloplastični prsten. Prisutan je trivijalan rezidualni trikuspidalni regurgitat.",
+      "Bioprotezni zalistak je u trikuspidalnoj poziciji. Zalistak dobro sjedi s normalnom pokretljivošću listića. Nema valvularne ni perivalvularne regurgitacije."
+    ],
+    "Pulmonic Valve Replacement": [
+      "Bioprotezni zalistak je u pulmonalnoj poziciji. Zalistak djeluje dobro sjedi s normalnom pokretljivošću listića. Nema značajne valvularne ni perivalvularne regurgitacije.",
+      "Bioprotezni stent‑zalisak je u pulmonalnoj poziciji. Zalistak djeluje dobro sjedi s normalnom pokretljivošću listića. Nema značajne valvularne ni perivalvularne regurgitacije.",
+      "Bioprotezni stent‑zalisak u pulmonalnoj poziciji"
+    ],
+    "LVAD": [
+      "Kanila uređaja za potporu lijeve komore viđena je u apeksu lijeve komore."
+    ],
+    "3D Findings:": [
+      "3D ehokardiografija je korištena za detaljnu procjenu lijeve komore."
+    ]
+  }
 }
