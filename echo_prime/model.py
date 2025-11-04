@@ -316,6 +316,26 @@ class EchoPrime:
             "Pulmonary Veins": "Vene Polmonari",
             "Postoperative Findings": "Esiti Post-Operatori",
             }
+        elif self.lang=='bs':
+            translations = {
+                "Left Ventricle": "Lijeva komora",
+                "Resting Segmental Wall Motion Analysis": "Analiza segmentalne pokretljivosti stijenke u mirovanju",
+                "Right Ventricle": "Desna komora",
+                "Left Atrium": "Lijeva pretkomora",
+                "Right Atrium": "Desna pretkomora",
+                "Atrial Septum": "Interatrijski septum",
+                "Mitral Valve": "Mitralni zalisak",
+                "Aortic Valve": "Aortni zalisak",
+                "Tricuspid Valve": "Trikuspidalni zalisak",
+                "Pulmonic Valve": "Pulmonalni zalisak",
+                "Pericardium": "Perikard",
+                "Aorta": "Aorta",
+                "IVC": "Donja šuplja vena",
+                "Pulmonary Artery": "Plućna arterija",
+                "Pulmonary Veins": "Plućne vene",
+                "Postoperative Findings": "Postoperativni nalazi",
+            }
+
 
         """
         elif self.lang=='your_language_code':

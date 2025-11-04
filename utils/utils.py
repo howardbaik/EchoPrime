@@ -67,6 +67,8 @@ def initialize_language(lang='en'):
         phrases_file = "assets/all_phr.json"
     elif lang == 'it':
         phrases_file = "assets/all_phr_it.json"
+    elif lang == 'bs':
+        phrases_file = "assets/all_phr_bs.json"
     # add your translated file here
     #elif lang == 'your_language_code':
     #    phrases_file = "assets/all_phr_{your_language_code}.json"
