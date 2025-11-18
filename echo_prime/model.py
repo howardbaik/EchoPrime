@@ -5,6 +5,15 @@ import glob
 import json
 import pickle
 import random
+import warnings
+
+# Suppress multiprocessing resource tracker warnings (common with scikit-learn/joblib)
+# These warnings occur at shutdown and are harmless - joblib/loky clean up resources automatically
+# Using multiple filter patterns to catch all variations of the warning
+warnings.filterwarnings('ignore', category=UserWarning, module='multiprocessing.resource_tracker')
+warnings.filterwarnings('ignore', message='.*resource_tracker.*leaked.*semaphore.*')
+warnings.filterwarnings('ignore', message='.*There appear to be.*leaked semaphore objects.*')
+warnings.filterwarnings('ignore', message='.*leaked semaphore objects to clean up at shutdown.*')
 
 # Third-party library imports
 import torch

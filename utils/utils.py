@@ -162,7 +162,7 @@ def make_it_regex(sec):
 
     # replace numerical and string with corresponding regex
     for idx in range(len(sec)):
-        sec[idx]=sec[idx].replace('(', '\(').replace(')', '\)').replace("+",'\+')
+        sec[idx]=sec[idx].replace('(', r'\(').replace(')', r'\)').replace("+", r'\+')
         sec[idx]=re.sub(r'<numerical>', numerical_pattern, sec[idx])
         sec[idx]=re.sub(r'<string>', string_pattern, sec[idx])
 
